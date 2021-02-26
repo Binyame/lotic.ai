@@ -1,0 +1,1056 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GraphQL - Schema should match snapshot 1`] = `
+"directive @listArgs on FIELD_DEFINITION
+
+directive @defaultArgs on FIELD_DEFINITION
+
+\\"\\"\\"
+The \`JSON\` scalar type represents JSON values as specified by [ECMA-404](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf).
+\\"\\"\\"
+scalar JSON @specifiedBy(url: \\"http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf\\")
+
+\\"\\"\\"
+A date-time string at UTC, such as 2007-12-03T10:15:30Z, compliant with the \`date-time\` format outlined in section 5.6 of the RFC 3339 profile of the ISO 8601 standard for representation of dates and times using the Gregorian calendar.
+\\"\\"\\"
+scalar DateTime
+
+\\"\\"\\"The \`Upload\` scalar type represents a file upload.\\"\\"\\"
+scalar Upload
+
+union Owner = LoticUser | Clinician
+
+type Query {
+  _empty: String
+  addresses(order: String, where: JSON, offset: Int, limit: Int): [Address]
+  address(id: Int!, where: JSON): Address
+  assessments(order: String, where: JSON, offset: Int, limit: Int): [Assessment]
+  assessment(id: Int!, where: JSON): Assessment
+  clinicians(order: String, where: JSON, offset: Int, limit: Int): [Clinician]
+  clinician(id: Int!, where: JSON): Clinician
+  contents(order: String, where: JSON, offset: Int, limit: Int): [Content]
+  content(id: Int!, where: JSON): Content
+  dataPrints(order: String, where: JSON, offset: Int, limit: Int): [DataPrint]
+  dataPrint(id: Int!, where: JSON): DataPrint
+  emails(order: String, where: JSON, offset: Int, limit: Int): [Email]
+  email(id: Int!, where: JSON): Email
+  loticUsers(order: String, where: JSON, offset: Int, limit: Int): [LoticUser]
+  loticUser(id: Int!, where: JSON): LoticUser
+  moments(order: String, where: JSON, offset: Int, limit: Int): [Moment]
+  moment(uuid: String!): Moment
+  momentPrompts(order: String, where: JSON, offset: Int, limit: Int): [MomentPrompt]
+  momentPrompt(id: Int!, where: JSON): MomentPrompt
+  patients(order: String, where: JSON, offset: Int, limit: Int): [Patient]
+  patient(id: Int!, where: JSON): Patient
+  patientAssessments(order: String, where: JSON, offset: Int, limit: Int): [PatientAssessment]
+  patientAssessment(id: Int!, where: JSON): PatientAssessment
+  permissions(order: String, where: JSON, offset: Int, limit: Int): [Permission]
+  permission(id: Int!, where: JSON): Permission
+  profiles(order: String, where: JSON, offset: Int, limit: Int): [Profile]
+  profile(id: Int!, where: JSON): Profile
+  prompts(order: String, where: JSON, offset: Int, limit: Int): [Prompt]
+  prompt(id: Int!, where: JSON): Prompt
+  providers(order: String, where: JSON, offset: Int, limit: Int): [Provider]
+  provider(id: Int!, where: JSON): Provider
+  reviews(order: String, where: JSON, offset: Int, limit: Int): [Review]
+  review(id: Int!, where: JSON): Review
+  reviewSubmissions(order: String, where: JSON, offset: Int, limit: Int): [ReviewSubmission]
+  reviewSubmission(id: Int!, where: JSON): ReviewSubmission
+  signalQuestions(order: String, where: JSON, offset: Int, limit: Int): [SignalQuestion]
+  signalQuestion(id: Int!, where: JSON): SignalQuestion
+  agreements(order: String, where: JSON, offset: Int, limit: Int): [Agreement]
+  agreement(id: Int!, where: JSON): Agreement
+  clinicianAgreements(order: String, where: JSON, offset: Int, limit: Int): [ClinicianAgreement]
+  clinicianAgreement(id: Int!, where: JSON): ClinicianAgreement
+  patientAgreements(order: String, where: JSON, offset: Int, limit: Int): [PatientAgreement]
+  patientAgreement(id: Int!, where: JSON): PatientAgreement
+  hcProviders(order: String, where: JSON, offset: Int, limit: Int): [HCProvider]
+  hcProvider(id: Int!, where: JSON): HCProvider
+  hcProviderInvites(order: String, where: JSON, offset: Int, limit: Int): [HCProviderInvite]
+  hcProviderInvite(id: Int!, where: JSON): HCProviderInvite
+  momentShares(order: String, where: JSON, offset: Int, limit: Int): [MomentShare]
+  momentShare(id: Int!, where: JSON): MomentShare
+  likes(order: String, where: JSON, offset: Int, limit: Int): [Like]
+  like(id: Int!, where: JSON): Like
+  careTeamCodes(order: String, where: JSON, offset: Int, limit: Int): [CareTeamCode]
+  careTeamCode(id: Int!, where: JSON): CareTeamCode
+  patientReviews(order: String, where: JSON, offset: Int, limit: Int): [PatientReview]
+  patientReview(id: Int!, where: JSON): PatientReview
+}
+
+type Mutation {
+  _empty: String
+  createAddress(address: AddressCreate): Address
+  updateAddress(address: AddressUpdate): Address
+  destroyAddress(address: AddressDestroy): Address
+  createAssessment(json: JSON!): Assessment
+  updateAssessment(assessment: AssessmentUpdate): Assessment
+  destroyAssessment(assessment: AssessmentDestroy): Assessment
+  createClinician(clinician: ClinicianCreate): Clinician
+  updateClinician(clinician: ClinicianUpdate): Clinician
+  destroyClinician(clinician: ClinicianDestroy): Clinician
+  addMomentShare(clinicianId: Int, momentShareId: Int): MomentShare
+  addPatient(clinicianId: Int, patientId: Int): Clinician
+  addHCProvider(clinicianId: Int, hcProviderId: Int): HCProvider
+  updatePassword(providerId: String, newPassword: String): UpdatePasswordResponse
+  createContent(content: ContentCreate): Content
+  updateContent(content: ContentUpdate): Content
+  destroyContent(content: ContentDestroy): Content
+  createDataPrint(dataPrint: DataPrintCreate): DataPrint
+  updateDataPrint(dataPrint: DataPrintUpdate): DataPrint
+  destroyDataPrint(dataPrint: DataPrintDestroy): DataPrint
+  createEmail(email: EmailCreate): Email
+  updateEmail(email: EmailUpdate): Email
+  destroyEmail(email: EmailDestroy): Email
+  createLoticUser(loticUser: LoticUserCreate): LoticUser
+  updateLoticUser(loticUser: LoticUserUpdate): LoticUser
+  destroyLoticUser(loticUser: LoticUserDestroy): LoticUser
+  createMoment(moment: MomentCreate): JSON
+  updateMoment(moment: MomentUpdate): Moment
+  destroyMoment(moment: MomentDestroy): Moment
+  createMomentPrompt(momentPrompt: MomentPromptCreate): MomentPrompt
+  updateMomentPrompt(momentPrompt: MomentPromptUpdate): MomentPrompt
+  destroyMomentPrompt(momentPrompt: MomentPromptDestroy): MomentPrompt
+  createPatient(patient: PatientCreate): Patient
+  updatePatient(patient: PatientUpdate): Patient
+  destroyPatient(patient: PatientDestroy): Patient
+  invitePatient(patientName: String!, deliveryAddress: String!): String
+  createPatientAssessment(patientAssessment: PatientAssessmentCreate): PatientAssessment
+  updatePatientAssessment(patientAssessment: PatientAssessmentUpdate): PatientAssessment
+  destroyPatientAssessment(patientAssessment: PatientAssessmentDestroy): PatientAssessment
+  createPermission(permission: PermissionCreate): Permission
+  updatePermission(permission: PermissionUpdate): Permission
+  destroyPermission(permission: PermissionDestroy): Permission
+  createProfile(profile: ProfileCreate): Profile
+  updateProfile(profile: ProfileUpdate): Profile
+  destroyProfile(profile: ProfileDestroy): Profile
+  createPrompt(prompt: PromptCreate): Prompt
+  updatePrompt(prompt: PromptUpdate): Prompt
+  destroyPrompt(prompt: PromptDestroy): Prompt
+  createProvider(provider: ProviderCreate): Provider
+  updateProvider(provider: ProviderUpdate): Provider
+  destroyProvider(provider: ProviderDestroy): Provider
+  createReview(json: JSON!): Review
+  updateReview(review: ReviewUpdate): Review
+  destroyReview(review: ReviewDestroy): Review
+  createReviewSubmission(reviewSubmission: ReviewSubmissionCreate): ReviewSubmission
+  updateReviewSubmission(reviewSubmission: ReviewSubmissionUpdate): ReviewSubmission
+  destroyReviewSubmission(reviewSubmission: ReviewSubmissionDestroy): ReviewSubmission
+  createSignalQuestion(signalQuestion: SignalQuestionCreate): SignalQuestion
+  updateSignalQuestion(signalQuestion: SignalQuestionUpdate): SignalQuestion
+  destroySignalQuestion(signalQuestion: SignalQuestionDestroy): SignalQuestion
+  createAgreement(agreement: AgreementCreate): Agreement
+  updateAgreement(agreement: AgreementUpdate): Agreement
+  destroyAgreement(agreement: AgreementDestroy): Agreement
+  createClinicianAgreement(clinicianAgreement: ClinicianAgreementCreate): ClinicianAgreement
+  updateClinicianAgreement(clinicianAgreement: ClinicianAgreementUpdate): ClinicianAgreement
+  destroyClinicianAgreement(clinicianAgreement: ClinicianAgreementDestroy): ClinicianAgreement
+  createPatientAgreement(patientAgreement: PatientAgreementCreate): PatientAgreement
+  updatePatientAgreement(patientAgreement: PatientAgreementUpdate): PatientAgreement
+  destroyPatientAgreement(patientAgreement: PatientAgreementDestroy): PatientAgreement
+  createHCProvider(hcProvider: HCProviderCreate): HCProvider
+  updateHCProvider(hcProvider: HCProviderUpdate): HCProvider
+  destroyHCProvider(hcProvider: HCProviderDestroy): HCProvider
+  createHCProviderInvite(hcProviderInvite: HCProviderInviteCreate): HCProviderInvite
+  updateHCProviderInvite(hcProviderInvite: HCProviderInviteUpdate): HCProviderInvite
+  destroyHCProviderInvite(hcProviderInvite: HCProviderInviteDestroy): HCProviderInvite
+  createMomentShare(momentShare: MomentShareCreate): MomentShare
+  updateMomentShare(momentShare: MomentShareUpdate): MomentShare
+  destroyMomentShare(momentShare: MomentShareDestroy): MomentShare
+  createLike(like: LikeCreate): Like
+  updateLike(like: LikeUpdate): Like
+  destroyLike(like: LikeDestroy): Like
+  createCareTeamCode(careTeamCode: CareTeamCodeCreate): CareTeamCode
+  updateCareTeamCode(careTeamCode: CareTeamCodeUpdate): CareTeamCode
+  destroyCareTeamCode(careTeamCode: CareTeamCodeDestroy): CareTeamCode
+  createPatientReview(patientReview: PatientReviewCreate): PatientReview
+  updatePatientReview(patientReview: PatientReviewUpdate): PatientReview
+  destroyPatientReview(patientReview: PatientReviewDestroy): PatientReview
+}
+
+type Subscription {
+  _empty: String
+}
+
+type Address {
+  id: Int
+  targetType: String
+  targetId: Int
+  country: String
+  region: String
+  locality: String
+  postalCode: String
+  address1: String
+  address2: String
+  address3: String
+  address4: String
+  primary: String
+  patient: Patient
+}
+
+input AddressCreate {
+  targetType: String
+  targetId: Int
+  country: String
+  region: String
+  locality: String
+  postalCode: String
+  address1: String
+  address2: String
+  address3: String
+  address4: String
+  primary: String
+}
+
+input AddressUpdate {
+  id: Int!
+  targetType: String
+  targetId: Int
+  country: String
+  region: String
+  locality: String
+  postalCode: String
+  address1: String
+  address2: String
+  address3: String
+  address4: String
+  primary: String
+}
+
+input AddressDestroy {
+  id: Int!
+}
+
+type Assessment {
+  id: Int
+  name: String
+  area: String
+  subcategory: String
+  ownerId: Int
+  ownerType: String
+  permanent: Boolean
+  patientAssessments: [PatientAssessment]
+  prompts: [Prompt]
+  moments: [Moment]
+  signalQuestions: [SignalQuestion]
+  owner: Owner
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input AssessmentUpdate {
+  id: Int!
+  name: String
+  area: String
+  subcategory: String
+  ownerId: Int
+  ownerType: String
+  permanent: Boolean
+}
+
+input AssessmentDestroy {
+  id: Int!
+}
+
+type Clinician {
+  id: Int
+  provider: String
+  providerId: String
+  providerKey: String
+  permissions: [Permission]
+  providers: [Provider]
+  profile: Profile
+  emails: [Email]
+  primaryEmail: Email
+  addresses: [Address]
+  clinicianAgreements: [ClinicianAgreement]
+  momentShares: [MomentShare]
+  patients: [Patient]
+  HCProviders: [HCProvider]
+  careTeamCodes: [CareTeamCode]
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input ClinicianCreate {
+  provider: String
+  providerId: String
+  providerKey: String
+}
+
+input ClinicianUpdate {
+  id: Int!
+  provider: String
+  providerId: String
+  providerKey: String
+}
+
+input ClinicianDestroy {
+  id: Int!
+}
+
+type UpdatePasswordResponse {
+  result: Boolean!
+}
+
+type Content {
+  id: Int
+  title: String
+  content: String
+  type: String
+  sourceUri: String
+  thumbnailUri: String
+  source: String
+  author: String
+  area: String
+  tags: [String]
+  preview: String
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input ContentCreate {
+  title: String
+  content: String
+  type: String
+  sourceUri: String
+  thumbnailUri: String
+  source: String
+  author: String
+  area: String
+  tags: [String]
+  preview: String
+}
+
+input ContentUpdate {
+  id: Int!
+  title: String
+  content: String
+  type: String
+  sourceUri: String
+  thumbnailUri: String
+  source: String
+  author: String
+  area: String
+  tags: [String]
+  preview: String
+}
+
+input ContentDestroy {
+  id: Int!
+}
+
+type DataPrint {
+  id: Int
+  svg: String
+  thumbnailUri: String
+  patientId: Int
+  patient: Patient
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input DataPrintCreate {
+  svg: String
+  thumbnailUri: String
+  patientId: Int
+}
+
+input DataPrintUpdate {
+  id: Int!
+  svg: String
+  thumbnailUri: String
+  patientId: Int
+}
+
+input DataPrintDestroy {
+  id: Int!
+}
+
+type Email {
+  id: Int
+  targetType: String
+  targetId: Int
+  email: String
+  primary: Boolean
+  patient: Patient
+}
+
+input EmailCreate {
+  targetType: String
+  targetId: Int
+  email: String
+  primary: Boolean
+}
+
+input EmailUpdate {
+  id: Int!
+  targetType: String
+  targetId: Int
+  email: String
+  primary: Boolean
+}
+
+input EmailDestroy {
+  id: Int!
+}
+
+type LoticUser {
+  id: Int
+  provider: String
+  providerId: String
+  providerKey: String
+  permissions: [Permission]
+  providers: [Provider]
+  profile: Profile
+  emails: [Email]
+  primaryEmail: Email
+  addresses: [Address]
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input LoticUserCreate {
+  provider: String
+  providerId: String
+  providerKey: String
+}
+
+input LoticUserUpdate {
+  id: Int!
+  provider: String
+  providerId: String
+  providerKey: String
+}
+
+input LoticUserDestroy {
+  id: Int!
+}
+
+type Moment {
+  uuid: String
+  type: String
+  durationMs: Int
+  uri: String
+  mimeType: String
+  assessmentId: Int
+  patientId: Int
+  thumbnailUri: String
+  patient: Patient
+  assessment: Assessment
+  momentPrompts: [MomentPrompt]
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input MomentCreate {
+  uuid: String
+  fileName: String!
+  type: String
+  durationMs: Int
+  uri: String
+  mimeType: String
+  assessmentId: Int
+  patientId: Int
+}
+
+input MomentUpdate {
+  uuid: String!
+  type: String
+  durationMs: Int
+  uri: String
+  mimeType: String
+  assessmentId: Int
+  patientId: Int
+}
+
+input MomentDestroy {
+  uuid: String!
+}
+
+type MomentPrompt {
+  id: Int
+  startTimeMs: Int
+  endTimeMs: Int
+  promptId: Int
+  momentUuid: String
+  prompt: Prompt
+  moment: Moment
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input MomentPromptCreate {
+  startTimeMs: Int
+  endTimeMs: Int
+  promptId: Int
+  momentUuid: String
+}
+
+input MomentPromptUpdate {
+  id: Int!
+  startTimeMs: Int
+  endTimeMs: Int
+  promptId: Int
+  momentUuid: String
+}
+
+input MomentPromptDestroy {
+  id: Int!
+}
+
+type Patient {
+  id: Int
+  provider: String
+  providerId: String
+  providerKey: String
+  permissions: [Permission]
+  providers: [Provider]
+  profile: Profile
+  emails: [Email]
+  primaryEmail: Email
+  addresses: [Address]
+  reviews: [Review]
+  reviewSubmissions: [ReviewSubmission]
+  clinicians: [Clinician]
+  moments: [Moment]
+  patientAssessments: [PatientAssessment]
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input PatientCreate {
+  provider: String
+  providerId: String
+  providerKey: String
+}
+
+input PatientUpdate {
+  id: Int!
+  provider: String
+  providerId: String
+  providerKey: String
+}
+
+input PatientDestroy {
+  id: Int!
+}
+
+type PatientAssessment {
+  id: Int
+  completed: Boolean
+  type: String
+  patientId: Int
+  assessmentId: Int
+  bookmarked: Boolean
+  patient: Patient
+  assessment: Assessment
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input PatientAssessmentCreate {
+  completed: Boolean
+  type: String
+  patientId: Int
+  assessmentId: Int
+  bookmarked: Boolean
+}
+
+input PatientAssessmentUpdate {
+  id: Int!
+  completed: Boolean
+  type: String
+  patientId: Int
+  assessmentId: Int
+  bookmarked: Boolean
+}
+
+input PatientAssessmentDestroy {
+  id: Int!
+}
+
+type Permission {
+  id: Int
+  targetType: String
+  targetId: Int
+  key: String
+  patient: Patient
+}
+
+input PermissionCreate {
+  targetType: String
+  targetId: Int
+  key: String
+}
+
+input PermissionUpdate {
+  id: Int!
+  targetType: String
+  targetId: Int
+  key: String
+}
+
+input PermissionDestroy {
+  id: Int!
+}
+
+type Profile {
+  id: Int
+  targetType: String
+  targetId: Int
+  avatarUri: String
+  lat: String
+  lng: String
+  shortDescription: String
+  longDescription: String
+  title: String
+  name: String
+  patient: Patient
+}
+
+input ProfileCreate {
+  targetType: String
+  targetId: Int
+  avatarUri: String
+  lat: String
+  lng: String
+  shortDescription: String
+  longDescription: String
+  title: String
+  name: String
+}
+
+input ProfileUpdate {
+  id: Int!
+  targetType: String
+  targetId: Int
+  avatarUri: String
+  lat: String
+  lng: String
+  shortDescription: String
+  longDescription: String
+  title: String
+  name: String
+}
+
+input ProfileDestroy {
+  id: Int!
+}
+
+type Prompt {
+  id: Int
+  order: Int
+  durationMs: Int
+  content: String
+  assessments: [Assessment]
+  momentPrompts: [MomentPrompt]
+}
+
+input PromptCreate {
+  order: Int
+  durationMs: Int
+  content: String
+}
+
+input PromptUpdate {
+  id: Int!
+  order: Int
+  durationMs: Int
+  content: String
+}
+
+input PromptDestroy {
+  id: Int!
+}
+
+type Provider {
+  id: Int
+  targetType: String
+  targetId: Int
+  provider: String
+  providerId: String
+  accessToken: String
+  patient: Patient
+}
+
+input ProviderCreate {
+  targetType: String
+  targetId: Int
+  provider: String
+  providerId: String
+  accessToken: String
+}
+
+input ProviderUpdate {
+  id: Int!
+  targetType: String
+  targetId: Int
+  provider: String
+  providerId: String
+  accessToken: String
+}
+
+input ProviderDestroy {
+  id: Int!
+}
+
+type Review {
+  id: Int
+  title: String
+  ownerId: Int
+  ownerType: String
+  patients: [Patient]
+  signalQuestions: [SignalQuestion]
+  owner: Owner
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input ReviewUpdate {
+  id: Int!
+  title: String
+  ownerId: Int
+  ownerType: String
+}
+
+input ReviewDestroy {
+  id: Int!
+}
+
+type ReviewSubmission {
+  id: Int
+  patientId: Int
+  reviewId: Int
+  body: JSON
+  patient: Patient
+  review: Review
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input ReviewSubmissionCreate {
+  patientId: Int
+  reviewId: Int
+  body: JSON
+  patientReviewId: Int
+}
+
+input ReviewSubmissionUpdate {
+  id: Int!
+  patientId: Int
+  reviewId: Int
+  body: JSON
+}
+
+input ReviewSubmissionDestroy {
+  id: Int!
+}
+
+type SignalQuestion {
+  id: Int
+  reviewId: Int
+  assessmentId: Int
+  content: String
+  type: String
+  trigger: JSON
+  review: Review
+  assessment: Assessment
+}
+
+input SignalQuestionCreate {
+  reviewId: Int
+  assessmentId: Int
+  content: String
+  type: String
+  trigger: JSON
+}
+
+input SignalQuestionUpdate {
+  id: Int!
+  reviewId: Int
+  assessmentId: Int
+  content: String
+  type: String
+  trigger: JSON
+}
+
+input SignalQuestionDestroy {
+  id: Int!
+}
+
+type Agreement {
+  id: Int
+  type: String
+  active: Boolean
+  name: String
+  key: String
+  version: String
+  content: String
+  clinicianAgreements: [ClinicianAgreement]
+  patientAgreements: [PatientAgreement]
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input AgreementCreate {
+  type: String
+  active: Boolean
+  name: String
+  key: String
+  version: String
+  content: String
+}
+
+input AgreementUpdate {
+  id: Int!
+  type: String
+  active: Boolean
+  name: String
+  key: String
+  version: String
+  content: String
+}
+
+input AgreementDestroy {
+  id: Int!
+}
+
+type ClinicianAgreement {
+  id: Int
+  clinicianId: Int
+  agreementId: Int
+  agreed: Boolean
+  agreedAt: DateTime
+  clinician: Clinician
+  agreement: Agreement
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input ClinicianAgreementCreate {
+  clinicianId: Int
+  agreementId: Int
+  agreed: Boolean
+  agreedAt: DateTime
+}
+
+input ClinicianAgreementUpdate {
+  id: Int!
+  clinicianId: Int
+  agreementId: Int
+  agreed: Boolean
+  agreedAt: DateTime
+}
+
+input ClinicianAgreementDestroy {
+  id: Int!
+}
+
+type PatientAgreement {
+  id: Int
+  patientId: Int
+  agreementId: Int
+  agreed: Boolean
+  agreedAt: DateTime
+  patient: Patient
+  agreement: Agreement
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input PatientAgreementCreate {
+  patientId: Int
+  agreementId: Int
+  agreed: Boolean
+  agreedAt: DateTime
+}
+
+input PatientAgreementUpdate {
+  id: Int!
+  patientId: Int
+  agreementId: Int
+  agreed: Boolean
+  agreedAt: DateTime
+}
+
+input PatientAgreementDestroy {
+  id: Int!
+}
+
+type HCProvider {
+  id: Int
+  name: String
+  HCProviderInvites: [HCProviderInvite]
+  clinicians: [Clinician]
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input HCProviderCreate {
+  name: String
+}
+
+input HCProviderUpdate {
+  id: Int!
+  name: String
+}
+
+input HCProviderDestroy {
+  id: Int!
+}
+
+type HCProviderInvite {
+  id: Int
+  code: String
+  active: Boolean
+  providerId: Int
+  clinicians: String
+  expiresAt: DateTime
+  HCProvider: HCProvider
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input HCProviderInviteCreate {
+  code: String
+  active: Boolean
+  providerId: Int
+  clinicians: String
+  expiresAt: DateTime
+}
+
+input HCProviderInviteUpdate {
+  id: Int!
+  code: String
+  active: Boolean
+  providerId: Int
+  clinicians: String
+  expiresAt: DateTime
+}
+
+input HCProviderInviteDestroy {
+  id: Int!
+}
+
+type MomentShare {
+  id: Int
+  momentUuid: String
+  uri: String
+  clinicians: [Clinician]
+  moment: Moment
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input MomentShareCreate {
+  momentUuid: String
+  uri: String
+}
+
+input MomentShareUpdate {
+  id: Int!
+  momentUuid: String
+  uri: String
+}
+
+input MomentShareDestroy {
+  id: Int!
+}
+
+type Like {
+  id: Int
+  patientId: Int
+  contentId: Int
+  patient: Patient
+  content: Content
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input LikeCreate {
+  patientId: Int
+  contentId: Int
+}
+
+input LikeUpdate {
+  id: Int!
+  patientId: Int
+  contentId: Int
+}
+
+input LikeDestroy {
+  id: Int!
+}
+
+type CareTeamCode {
+  id: Int
+  clinicianId: Int
+  code: String
+  patientName: String
+  method: String
+  deliveryAddress: String
+  expiry: DateTime
+  usedOn: String
+  clinician: Clinician
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input CareTeamCodeCreate {
+  clinicianId: Int
+  code: String
+  patientName: String
+  method: String
+  deliveryAddress: String
+  expiry: DateTime
+  usedOn: String
+}
+
+input CareTeamCodeUpdate {
+  id: Int!
+  clinicianId: Int
+  code: String
+  patientName: String
+  method: String
+  deliveryAddress: String
+  expiry: DateTime
+  usedOn: String
+}
+
+input CareTeamCodeDestroy {
+  id: Int!
+}
+
+type PatientReview {
+  id: Int
+  patientId: Int
+  reviewId: Int
+  completed: Boolean
+  type: String
+  patient: Patient
+  review: Review
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input PatientReviewCreate {
+  patientId: Int
+  reviewId: Int
+  completed: Boolean
+  type: String
+}
+
+input PatientReviewUpdate {
+  id: Int!
+  patientId: Int
+  reviewId: Int
+  completed: Boolean
+  type: String
+}
+
+input PatientReviewDestroy {
+  id: Int!
+}
+"
+`;

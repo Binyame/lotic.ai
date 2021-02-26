@@ -1,0 +1,708 @@
+﻿Moment ID,Moment Name - Topic,Prompt,Duration (seconds),Order,Type of Moment,Primary Topic,Ladders to Topic (1),Ladders to Topic (2),Ladders to Topic (3),Ladders to Topic (4)
+M00001,Talk to Me: Depression,"Describe a time you were feeling down, depressed, or hopeless.",60,1,Talk to Me,Depression,Mood,Thoughts,Feelings,Relationships
+M00001,Talk to Me: Depression,Describe where you were / who you were with during a time you felt depressed.,60,2,Talk to Me,Depression,Mood,Thoughts,Feelings,Relationships
+M00001,Talk to Me: Depression,What thoughts and feelings do you notice when you are feeling depressed?,60,3,Talk to Me,Depression,Mood,Thoughts,Feelings,Relationships
+M00002,Future Me: Depression,What do you need that you're not currently getting to deal with depression?,60,1,Future Me,Depression,Relationships,Purpose,Spirituality,Feeling Safe
+M00002,Future Me: Depression,Describe your future non-depressed self. Where are you? What are you doing?,180,2,Future Me,Depression,Relationships,Purpose,Spirituality,Feeling Safe
+M00003,Managing: Depression,Describe a time where you loved yourself.,60,1,Managing,Depression,Self-love,Self-esteem,Confidence,Purpose
+M00003,Managing: Depression,What are three things that someone who loves you would say are your good qualities?,90,2,Managing,Depression,Self-love,Self-esteem,Confidence,Purpose
+M00004,Sparking: Joy,What brings you the most joy?,60,1,Sparking,Depression,Purpose,Relationships,Mood,Self-esteem
+M00004,Sparking: Joy,What mark do you want to leave on the world?,90,2,Sparking,Depression,Purpose,Relationships,Mood,Self-esteem
+M00005,Talk to Me: Grief,Describe a time you experienced grief.,180,1,Talk to Me,Grief,Depression,,,
+M00005,Talk to Me: Grief,Where were you? Who were you with?,180,2,Talk to Me,Grief,Depression,,,
+M00005,Talk to Me: Grief,How did you experience grief? How did it feel? What did you do?,180,3,Talk to Me,Grief,Depression,,,
+M00006,Living With: Grief,How do you define grief? What's your relationship to it?,30,1,Living with,Grief,Mood,Relationships,Empathy,Feeling Safe
+M00006,Living With: Grief,What do people not understand about your specific grief process?,60,2,Living with,Grief,Mood,Relationships,Empathy,Feeling Safe
+M00006,Living With: Grief,What do you need that you are currently not getting as it applies grief.,120,3,Living with,Grief,Mood,Relationships,Empathy,Feeling Safe
+M00006,Living With: Grief,Describe how grief plays a part in your ability to engage in day-to-day activities.,180,4,Living with,Grief,Mood,Relationships,Empathy,Feeling Safe
+M00007,Reflecting On: Grief,Some people say only time heals. How has your experience of greif changed through the years?,180,1,Reflect on,Grief,Mood,Relationships,Empathy,Feeling Safe
+M00007,Reflecting On: Grief,Describe some helpful advice people offer about grief.,60,2,Reflect on,Grief,Mood,Relationships,Empathy,Feeling Safe
+M00007,Reflecting On: Grief,What you would share with someone else who's grieving?,60,3,Reflect on,Grief,Mood,Relationships,Empathy,Feeling Safe
+M00008,Talk to Me: Anxiety,Describe an event that recently made you nervous or anxious.,60,1,Talk to Me,Anxiety,Confidence,Stress,Feelings,Thoughts
+M00008,Talk to Me: Anxiety,What circumstances prompt feelings of anxiety?,60,2,Talk to Me,Anxiety,Confidence,Stress,Feelings,Thoughts
+M00008,Talk to Me: Anxiety,What thoughts and physical feelings do you notice when you felt anxious?,60,3,Talk to Me,Anxiety,Confidence,Stress,Feelings,Thoughts
+M00009,Explore: Anxiety,Describe your experience of anxiety?,120,1,Explore,Anxiety,Physiology,,,
+M00009,Explore: Anxiety,Describe the sensations you feel in your body when experiencing anxiety?,60,2,Explore,Anxiety,Physiology,,,
+M00010,"Reaching ""Calm""",Describe the ways you currently manage anxiety?,60,1,(free form name),Anxiety,Stress,Care Team,Self-love,
+M00010,"Reaching ""Calm""",What tools do and do not work for you?,60,2,(free form name),Anxiety,Stress,Care Team,Self-love,
+M00010,"Reaching ""Calm""",What do you need to reduce anxiety that you're not currently getting?,120,3,(free form name),Anxiety,Stress,Care Team,Self-love,
+M00011,Reflect On: Social Anxiety,To what extent do you worry about what people think of you?,60,1,Reflect on,Anxiety,Stress,Relationships,Self-esteem,
+M00011,Reflect On: Social Anxiety,Describe a time where your worries impacted your behavior.,120,2,Reflect on,Anxiety,Stress,Relationships,Self-esteem,
+M00011,Reflect On: Social Anxiety,To what extent do you think people notice your shortcomings?,120,3,Reflect on,Anxiety,Stress,Relationships,Self-esteem,
+M00011,Reflect On: Social Anxiety,Now describe how you'd feel if people only saw your good qualities?,60,4,Reflect on,Anxiety,Stress,Relationships,Self-esteem,
+M00012,Speaking in Public,Describe a time where you worried about speaking in front of others.,60,1,(free form name),Anxiety,Stress,Physiology,Mood,
+M00012,Speaking in Public,Describe the feeling in your body when you know you will need to speak in front others.,60,2,(free form name),Anxiety,Stress,Physiology,Mood,
+M00013,Living With: Embarrassment,To what extent do you feel easily embarrassed.,30,1,Living with,Anxiety,Stress,Relationships,,
+M00013,Living With: Embarrassment,Describe the feeling in your body of being embarrassed.,60,2,Living with,Anxiety,Stress,Relationships,,
+M00013,Living With: Embarrassment,Describe the last time you were embarrassed. Where were you? Who were you with? What happened?,180,3,Living with,Anxiety,Stress,Relationships,,
+M00014,Managing: Embarrassment,Describe the coping mechanisms you use to work through feelings of embarrassment.,60,1,Managing,Anxiety,Stress,Being Social,Relationships,Self-esteem
+M00014,Managing: Embarrassment,Describe a time where you felt you were able to overcome being nervous around others.,120,2,Managing,Anxiety,Stress,Being Social,Relationships,Self-esteem
+M00015,Talk to Me: Mood,Describe your overall mood today.,60,1,Talk to Me,Mood,Feelings,Thoughts,-,-
+M00015,Talk to Me: Mood,Describe how today’s mood is different or the same than on other days.,60,2,Talk to Me,Mood,Feelings,Thoughts,-,-
+M00015,Talk to Me: Mood,"What do your different moods feel, look, and sound like?",120,3,Talk to Me,Mood,Feelings,Thoughts,-,-
+M00016,Explore: Sadness,Describe your relationship with sadness.,60,1,Explore,Mood,Feelings,Thoughts,Exercise,Being Social
+M00016,Explore: Sadness,How does your body feel when your sad?,30,2,Explore,Mood,Feelings,Thoughts,Exercise,Being Social
+M00016,Explore: Sadness,Can you let yourself cry? What kinds of cries do you have?,60,3,Explore,Mood,Feelings,Thoughts,Exercise,Being Social
+M00016,Explore: Sadness,Describe some things you can do that make you feel better when you've been sad.,90,4,Explore,Mood,Feelings,Thoughts,Exercise,Being Social
+M00017,Sadness is Normal,Have you felt sad in the last two weeks?,30,2,(free form name),Mood,Feelings,Thoughts,,
+M00017,Sadness is Normal,What triggers sadness for you?,60,3,(free form name),Mood,Feelings,Thoughts,,
+M00017,Sadness is Normal,How does this impacts your day-to-day life?,90,1,(free form name),Mood,Feelings,Thoughts,,
+M00018,Working Through: Irritation,What thoughts and physical feelings do you have when you're irritated?,60,1,(free form name),Mood,Feelings,Thoughts,Physiology,
+M00018,Working Through: Irritation,"Describe a time; who were you with, what were you doing? what triggered your irritation?",60,2,(free form name),Mood,Feelings,Thoughts,Physiology,
+M00019,Feeling Down,When’s the last time you were sad?,30,1,(free form name),Mood,Feelings,Thoughts,Physiology,Relationships
+M00019,Feeling Down,Where were you and who were you with the last time you were sad?,60,2,(free form name),Mood,Feelings,Thoughts,Physiology,Relationships
+M00019,Feeling Down,What physical sensations do you feel in your body when you're sad?,30,3,(free form name),Mood,Feelings,Thoughts,Physiology,Relationships
+M00020,My Interactive Self,Describe a person who can affect your mood. What is your relationship?,60,1,(free form name),Mood,Relationships,Feelings,Thoughts,-
+M00020,My Interactive Self,"For better or worse, how do certain people affect you more than others?",60,2,(free form name),Mood,Relationships,Feelings,Thoughts,-
+M00020,My Interactive Self,How would others describe you when you're struggling with your mood?,60,3,(free form name),Mood,Relationships,Feelings,Thoughts,-
+M00021,Reflect On: My Feelings,Describe the level to which you are afraid of your feelings.,60,1,Reflect on,Mood,Feelings,Fear,Thoughts,Confidence
+M00021,Reflect On: My Feelings,To what extent do you feel that you are in control of your feelings?,60,2,Reflect on,Mood,Feelings,Fear,Thoughts,Confidence
+M00021,Reflect On: My Feelings,Do you believe that other people are able to handle their feelings better than you?,60,3,Reflect on,Mood,Feelings,Fear,Thoughts,Confidence
+M00022,Reflect On: Expressing Feelings,Do you feel comfortable expressing your feelings?,30,1,Reflect on,Feelings,Mood,Self-love,Spirituality,Self-esteem
+M00022,Reflect On: Expressing Feelings,Who do you express feelings freely to?,60,2,Reflect on,Feelings,Mood,Self-love,Spirituality,Self-esteem
+M00022,Reflect On: Expressing Feelings,Do you believe people are able to handle your authentic self?,90,3,Reflect on,Feelings,Mood,Self-love,Spirituality,Self-esteem
+M00022,Reflect On: Expressing Feelings,When have you had to sensor yourself? How has that impacted you?,120,4,Reflect on,Feelings,Mood,Self-love,Spirituality,Self-esteem
+M00023,My Emotional Self,To what extent do you feel your emotions are acting against you?,60,1,(free form name),Mood,Thoughts,Feelings,Confidence,Stress
+M00023,My Emotional Self,To what extent do you feel that painful memories prevent you from living your best life?,60,2,(free form name),Mood,Thoughts,Feelings,Confidence,Stress
+M00023,My Emotional Self,To what extent do you feel your emotions are obstacles to your success.,90,3,(free form name),Mood,Thoughts,Feelings,Confidence,Stress
+M00023,My Emotional Self,Describe a time where you felt that you emotions were obstacles to your actions.,120,4,(free form name),Mood,Thoughts,Feelings,Confidence,Stress
+M00024,Project: Mood,Consider making a playlist of songs that make you happy to hear. What is it about these songs that make you happy?,300,1,Project,Mood,Creativity,Thoughts,Purpose,
+M00025,Talk to Me: Pain,"In the last two weeks, have you been in physical pain?",30,1,Talk to Me,Pain,Mood,Physiology,Exercise,
+M00025,Talk to Me: Pain,Describe the details of the pain. Where is it? How long does it last?,120,2,Talk to Me,Pain,Mood,Physiology,Exercise,-
+M00025,Talk to Me: Pain,Describe your mood during this period where you've experienced physical pain.,120,3,Talk to Me,Pain,Mood,Physiology,Exercise,-
+M00026,Managing: Pain,Does pain or discomfort limit your movement or impact your mood?,60,1,Managing,Pain,Mood,Feelings,Thoughts,Physiology
+M00026,Managing: Pain,Share how your pain impacts you directly. How does it impact you indirectly?,120,2,Managing,Pain,Mood,Feelings,Thoughts,Physiology
+M00026,Managing: Pain,What is your response to pain? What actions do you take or not take?,60,3,Managing,Pain,Mood,Feelings,Thoughts,Physiology
+M00027,Living with Pain,Do you have a routine that helps you manage your chronic pain?,30,1,Living with,Pain,Mindfulness,Physiology,,
+M00027,Living with Pain,Describe some of the activities you engage in.,60,2,Living with,Pain,Mindfulness,Physiology,,
+M00027,Living with Pain,Describe things that are and aren't working with your routine.,60,3,Living with,Pain,Mindfulness,Physiology,,
+M00028,Explore: Mind-Body,Do you see any connection between your physical pain and any emotional discomfort?,90,1,Explore,Pain,Stress,Physiology,,
+M00028,Explore: Mind-Body,To what extent does stress play a role in your pain?,90,2,Explore,Pain,Stress,Physiology,,
+M00028,Explore: Mind-Body,How do you hold stress in your body?,90,3,Explore,Pain,Stress,Physiology,,
+M00029,Reflect On: Mind-Body,What patterns of thought increase your pain?,60,1,Reflect on,Pain,Dreams,Mindfulness,Thoughts,Physiology
+M00029,Reflect On: Mind-Body,"Now imagine the opposite of that. Can you see yourself pain free, even for just a short moment?",60,2,Reflect on,Pain,Dreams,Mindfulness,Thoughts,Physiology
+M00029,Reflect On: Mind-Body,What would that feel like? What would you do? How would your life change?,120,2,Reflect on,Pain,Dreams,Mindfulness,Thoughts,Physiology
+M00030,Talk to Me: Stress,Can you identify things that are stressful for you?,60,1,Talk to Me,Stress,Anxiety,Mood,Thoughts,Pain
+M00030,Talk to Me: Stress,Describe what stresses you.,120,2,Talk to Me,Stress,Anxiety,Mood,Thoughts,Pain
+M00030,Talk to Me: Stress,Where do you feel stress in your body when you think of these things?,60,3,Talk to Me,Stress,Anxiety,Mood,Thoughts,Pain
+M00031,Living with Stress,To what extent do your thoughts affect your feelings?,60,1,Living with,Stress,Thoughts,Mindfulness,Mood,
+M00031,Living with Stress,Describe a time where you got caught up in your thoughts.,120,2,Living with,Stress,Thoughts,Mindfulness,Mood,
+M00031,Living with Stress,Describe a time where negative thoughts turned out to not be true.,60,3,Living with,Stress,Thoughts,Mindfulness,Mood,
+M00032,Reflect On: Stress,How do you manage stress?,120,1,Reflect on,Stress,Mindfulness,Self-love,Identity,
+M00032,Reflect On: Stress,What do you do to avoid stress?,60,2,Reflect on,Stress,Mindfulness,Self-love,Identity,
+M00032,Reflect On: Stress,Describe a time you knew you were going to be in a stressful situation and the actions you took to help yourself cope.,180,3,Reflect on,Stress,Mindfulness,Self-love,Identity,
+M00033,Managing Stress,To what extent are you able to control your reaction to stress?,60,1,Managing,Stress,Thoughts,Mindfulness,,
+M00033,Managing Stress,Describe a time where you were able to let go of stressful thinking.,90,2,Managing,Stress,Thoughts,Mindfulness,,
+M00033,Managing Stress,To what extent do you think 'positive thinking' is a helpful tool to have?,120,3,Managing,Stress,Thoughts,Mindfulness,,
+M00034,Talk to Me: Career,Describe your current occupation and a typical day.,180,1,Talk to Me,Career,Mood,-,-,-
+M00034,Talk to Me: Career,Describe how your work affects your mood,90,2,Talk to Me,Career,Mood,-,-,-
+M00034,Talk to Me: Career,Describe a time where your work negatively affected you.,90,3,Talk to Me,Career,Mood,-,-,-
+M00035,Reflect on Job Satisfaction,"What would you change about your current work situation, if you could?",120,1,Reflect on,Career,Dreams,Purpose,Creativity,-
+M00035,Reflect on Job Satisfaction,Share what you would like to be doing and why.,180,2,Reflect on,Career,Dreams,Purpose,Creativity,-
+M00035,Reflect on Job Satisfaction,"What is your reaction to the question, “What did you want to be when you grew up?”",60,3,Reflect on,Career,Dreams,Purpose,Creativity,-
+M00036,My Ambitious Self,What motivates you in your career?,60,1,(free form name),Career,Passion,Confidence,-,-
+M00036,My Ambitious Self,How has your career motivation changed over time?,120,2,(free form name),Career,Passion,Confidence,-,-
+M00036,My Ambitious Self,What would motivate you to make the career changes you most desire?,120,3,(free form name),Career,Passion,Confidence,-,-
+M00037,Reflect on Retirement,What feelings do you have with respect to retirement?,60,1,Reflect on,Career,Retirement,,,
+M00037,Reflect on Retirement,Describe any worries you have about retirement.,60,2,Reflect on,Career,Retirement,,,
+M00037,Reflect on Retirement,Describe your ideal retirement.,120,3,Reflect on,Career,Retirement,,,
+M00038,Project: Resume,"Consider updating your resume, even if you're not planning on looking for a job. Does your list of accomplishments match up with where you want to go?",1200,1,Project,Career,Self-love,Confidence,Identity,-
+M00038,Project: Resume,Write out a list of companies you'd like to work for. Now look at their websites. Are any hiring right now?,600,2,Project,Career,Self-love,Confidence,Identity,-
+M00039,Talk to Me: Aging,Describe your thoughts about aging.,60,1,Talk to Me,Feelings,Thoughts,Identity,,
+M00039,Talk to Me: Aging,To what extent do you fear 'getting old',60,2,Talk to Me,Feelings,Thoughts,Identity,,
+M00039,Talk to Me: Aging,Describe how you feel physically today compared to 5 years ago? 10 years ago? 20 years ago,120,3,Talk to Me,Feelings,Thoughts,Identity,,
+M00040,Talk About My Generation,Describe how you feel about your current generation in relation to other generations.,90,2,(free form name),Mood,Thoughts,Purpose,Retirement,Career
+M00040,Talk About My Generation,What do people older or younger than you not understand about your current experience?,90,4,(free form name),Mood,Thoughts,Purpose,Retirement,Career
+M00040,Talk About My Generation,Describe your ideal age and the factors that make that the case.,120,6,(free form name),Mood,Thoughts,Purpose,Retirement,Career
+M00040,Talk About My Generation,Do you feel hopeful that the opportunities you seek will be available to you in the future?,60,5,(free form name),Mood,Thoughts,Purpose,Retirement,Career
+M00040,Talk About My Generation,Do you think there are opportunities for people your age now?,30,3,(free form name),Mood,Thoughts,Purpose,Retirement,Career
+M00040,Talk About My Generation,Do you find yourself looking forward or backwards in time right now?,60,1,(free form name),Mood,Thoughts,Purpose,Retirement,Career
+M00041,Talk to Me: Sleep,Describe your feelings about sleep. What kind of value do you place on it?,60,1,Talk to Me,Sleep,Feelings,Mood,Dreams,-
+M00041,Talk to Me: Sleep,Describe how long it typically takes you to fall asleep.,30,2,Talk to Me,Sleep,Feelings,Mood,Dreams,-
+M00041,Talk to Me: Sleep,Describe how your body typically feels when you wake up.,60,3,Talk to Me,Sleep,Feelings,Mood,Dreams,-
+M00042,It's Bedtime,Describe what you do before bed and what time that typically happens.,60,1,(free form name),Sleep,Relationships,Physiology,Self-love,-
+M00042,It's Bedtime,Describe the physical details of your sleep environment.,60,2,(free form name),Sleep,Relationships,Physiology,Self-love,-
+M00042,It's Bedtime,Describe your ideal conditions for sleep.,30,3,(free form name),Sleep,Relationships,Physiology,Self-love,-
+M00043,My Sleep is...not good,To what extent are your current sleep conditions ideal or not ideal for you?,60,1,(free form name),Sleep,Feelings,Mood,Dreams,Anxiety
+M00043,My Sleep is...not good,Describe the disruption to your sleep routine.,60,2,(free form name),Sleep,Feelings,Mood,Dreams,Anxiety
+M00043,My Sleep is...not good,Describe your mood during and the day following sleep disruptions.,60,3,(free form name),Sleep,Feelings,Mood,Dreams,Anxiety
+M00044,Talk to Me: Relationships,What do you think it means to have a connection with someone?,90,1,Talk to Me,Relationships,Love,Being Social,Feelings,Feeling Safe
+M00044,Talk to Me: Relationships,Name one person who you feel very connected to.,60,2,Talk to Me,Relationships,Love,Being Social,Feelings,Feeling Safe
+M00044,Talk to Me: Relationships,Describe the first time you realized that you had a connection with this person.,90,3,Talk to Me,Relationships,Love,Being Social,Feelings,Feeling Safe
+M00045,Being a Partner,Describe a time where you were a good partner to someone.,90,1,(free form name),Relationships,Love,Feelings,Compassion,Empathy
+M00045,Being a Partner,Describe a time where you know you've been difficult with a romantic partner.,120,2,(free form name),Relationships,Love,Feelings,Compassion,Empathy
+M00045,Being a Partner,In which ways would you like to be a better partner?,120,3,(free form name),Relationships,Love,Feelings,Compassion,Empathy
+M00046,When I was young...,Describe your relationship with your parents/primary caregivers through time.,90,1,(free form name),Relationships,Family,Care Team,,
+M00046,When I was young...,Describe how your parental relationships have affected your other relationships.,60,2,(free form name),Relationships,Family,Care Team,,
+M00046,When I was young...,Describe your relationship with your parents/primary caregivers during childhood.,180,3,(free form name),Relationships,Family,Care Team,,
+M00047,Reflect On: Friendship,How would you describe yourself as a friend?,60,1,Reflect on,Relationships,Compassion,Being Social,Empathy,
+M00047,Reflect On: Friendship,Describe a time when you were a good friend to someone.,60,2,Reflect on,Relationships,Compassion,Being Social,Empathy,-
+M00047,Reflect On: Friendship,Describe a time when you have been difficult to be friends with.,160,3,Reflect on,Relationships,Compassion,Being Social,Empathy,-
+M00047,Reflect On: Friendship,In which ways would you like to be a better friend?,120,4,Reflect on,Relationships,Compassion,Being Social,Empathy,-
+M00048,Thank you for Being a Friend,Describe your best friend.,60,1,(free form name),Relationships,Being Social,,,
+M00048,Thank you for Being a Friend,Describe your best friend from childhood.,60,2,(free form name),Relationships,Being Social,,,
+M00048,Thank you for Being a Friend,What qualities about your current friends most annoy you.,90,3,(free form name),Relationships,Being Social,,,
+M00049,Future Friends,To what extent do you think the friends you have now will be your friends for life?,90,2,Future Me,Relationships,Being Social,,,
+M00049,Future Friends,Where would you most like to be with your friends?,30,1,Future Me,Relationships,Being Social,,,
+M00049,Future Friends,Describe the ideal activities you would engage in with friends?,120,3,Future Me,Relationships,Being Social,,,
+M00050,Reflect on Loneliness,To what extent do you feel like you have a companion in life?,60,1,Reflect on,Relationships,Mood,Feeling Safe,Purpose,-
+M00050,Reflect on Loneliness,To what extent do you feel lonely?,60,2,Reflect on,Relationships,Mood,Feeling Safe,Purpose,
+M00050,Reflect on Loneliness,Describe a time where you felt lonely.,30,3,Reflect on,Relationships,Mood,Feeling Safe,Purpose,
+M00050,Reflect on Loneliness,Describe a time where you did not feel lonely.,30,4,Reflect on,Relationships,Mood,Feeling Safe,Purpose,
+M00050,Reflect on Loneliness,Describe what lonely feels like in your body.,60,5,Reflect on,Relationships,Mood,Feeling Safe,Purpose,
+M00051,Managing Loneliness,What do you currently need that would make you feel less lonely?,60,1,Managing,Relationships,Mood,Feeling Safe,,
+M00051,Managing Loneliness,To what extent do you feel like you will be lonely for an extended period of time.,60,2,Managing,Relationships,Mood,Feeling Safe,,
+M00051,Managing Loneliness,What types of connections do you seek to make you feel less lonely?,90,3,Managing,Relationships,Mood,Feeling Safe,,
+M00052,Caring for Aging Parents,Describe your relationship to your aging parents or caregivers.,120,3,(free form name),Relationships,Family,Retirement,Care Team,Aging
+M00052,Caring for Aging Parents,Are you providing the relationship with your aging parent(s) that you yourself would hope for.,60,1,(free form name),Relationships,Family,Retirement,Care Team,Aging
+M00052,Caring for Aging Parents,What support aren't you getting that would help improve how you care for your aging parents?,120,2,(free form name),Relationships,Family,Retirement,Care Team,Aging
+M00053,My Social Life,What do you enjoy doing socially?,60,1,(free form name),Being Social,Anxiety,Stress,Identity,
+M00053,My Social Life,Describe your feelings leading up to a social event or meeting.,60,2,(free form name),Being Social,Anxiety,Stress,Identity,
+M00053,My Social Life,Describe a time where you avoided people or an event that you once looked forward to.,60,3,(free form name),Being Social,Anxiety,Stress,Identity,
+M00054,Living With: Long Distance Love,Describe your long distance relationship? How long have you been dating?,90,1,Living with,Relationships,Mood,Being Social,Stress,Feelings
+M00054,Living With: Long Distance Love,Describe the emotional stresses on a long distance relationship,60,2,Living with,Relationships,Mood,Being Social,Stress,Feelings
+M00054,Living With: Long Distance Love,Explain any Pros or Cons of a long distance relationship,120,3,Living with,Relationships,Mood,Being Social,Stress,Feelings
+M00055,Liviging with: Caregivers,Describe your situation as a primary caregiver for someone else.,60,1,Living with,Care Team,Relationships,Empathy,Compassion,Love
+M00055,Liviging with: Caregivers,Describe any issues you have as the primary caregiver for someone else.,120,2,Living with,Care Team,Relationships,Empathy,Compassion,Love
+M00055,Liviging with: Caregivers,Describe how being a caregiver has changed your life.,90,3,Living with,Care Team,Relationships,Empathy,Compassion,Love
+M00056,Project: Just the Two of Us,Record a dual Lotic moment with the person you care for. What does a typical day look like?,300,1,Project,Care Team,Relationships,Empathy,Compassion,Love
+M00057,Talk to Me: Dreams,How many dreams do you recall from last night?,30,1,Talk to Me,Dreams,Sleep,Feelings,Thoughts,Creativity
+M00057,Talk to Me: Dreams,"Describe your dream in as much detail as you can recall. Describe important details about the characters, setting, actions, and feelings. Try to structure the dream with a beginning, middle, and end.",120,2,Talk to Me,Dreams,Sleep,Feelings,Thoughts,Creativity
+M00057,Talk to Me: Dreams,Have you had this dream before? When?,30,3,Talk to Me,Dreams,Sleep,Feelings,Thoughts,Creativity
+M00057,Talk to Me: Dreams,How did this dream make you feel? What emotions were generated?,120,4,Talk to Me,Dreams,Sleep,Feelings,Thoughts,Creativity
+M00057,Talk to Me: Dreams,Do you connect this dream with important events or issues in your life? Please describe.,60,5,Talk to Me,Dreams,Sleep,Feelings,Thoughts,Creativity
+M00058,Was that a Dream?!?,Describe what you remember from your dreams last night.,60,1,(free form name),Dreams,Sleep,Relationships,Feeling Safe,
+M00058,Was that a Dream?!?,Share what happened in the dream. Who was in it? Where were you? What was the plot?,120,2,(free form name),Dreams,Sleep,Relationships,Feeling Safe,
+M00058,Was that a Dream?!?,"Describe any have recurring dreams, nightmares or feelings you experience when sleeping.",60,3,(free form name),Dreams,Sleep,Relationships,Feeling Safe,
+M00058,Was that a Dream?!?,Describe how your dreams make you feel when you think about them.,60,4,(free form name),Dreams,Sleep,Relationships,Feeling Safe,
+M00059,Dream Report,Choose a recent dream that sticks in your mind.,60,1,(free form name),Dreams,Sleep,Relationships,,
+M00059,Dream Report,Share what happened in the dream. Who was in it? Where were you? What was the plot?,60,2,(free form name),Dreams,Sleep,Relationships,,
+M00059,Dream Report,Have you had this dream before and what do you think it means?,60,3,(free form name),Dreams,Sleep,Relationships,,
+M00060,Managing Dreams,"If you could choose to dream about something, what would it be and why?",60,1,Managing,Dreams,Sleep,Self-love,Identity,
+M00060,Managing Dreams,Describe some people you would like to be in your dreams.,60,2,Managing,Dreams,Sleep,Self-love,Identity,
+M00060,Managing Dreams,To what extent do you prefer fantasy to reality in your dreams?,60,3,Managing,Dreams,Sleep,Self-love,Identity,
+M00060,Managing Dreams,To what extent do you feel that your dreams are in your control?,60,4,Managing,Dreams,Sleep,Self-love,Identity,
+M00060,Managing Dreams,To what extent would you like to control the dreams you have?,90,5,Managing,Dreams,Sleep,Self-love,Identity,
+M00061,Project: My Dreams in Art,"Choose a dream for reflection and give it a name - ""This is the dream about…""",30,1,Project,Dreams,Sleep,Self-esteem,Creativity,
+M00061,Project: My Dreams in Art,"Draw an image or images of your dream. What shapes, colors, compositions come to mind visually as you recall your dream? Use the ""dream imaging"" tool to record what comes.",180,2,Project,Dreams,Sleep,Self-esteem,Creativity,
+M00061,Project: My Dreams in Art,"Pick out one symbol or element in your dream image. Free associate words or phrases, emotions, or thoughts that come to mind. (Amplification)",90,3,Project,Dreams,Sleep,Self-esteem,Creativity,
+M00061,Project: My Dreams in Art,"What insights, guidance, or messages did your dream convey to you? What desires or fears did the dream reveal?",120,4,Project,Dreams,Sleep,Self-esteem,Creativity,
+M00062,Planning a Dream,"Set an intention to remember your dreams by saying 3xs ""I remember my dreams""",30,1,(free form name),Dreams,Sleep,Routine,,
+M00062,Planning a Dream,"If you need guidance or insight, pose a short and open-ended question.",30,2,(free form name),Dreams,Sleep,Routine,,
+M00062,Planning a Dream,Consider meditating for 5-20 minutes before bed as this can help support dreaming and dream recall,30,3,(free form name),Dreams,Sleep,Routine,,
+M00063,Talk to Me: Fear,Describe some of the fears you had as a child.,60,1,Talk to Me,Fear,Feeling Safe,Anxiety,Stress,Self-care
+M00063,Talk to Me: Fear,Describe some of the fears you have as an adult.,60,2,Talk to Me,Fear,Feeling Safe,Anxiety,Stress,Self-care
+M00063,Talk to Me: Fear,When’s the last time you experienced fear?,90,3,Talk to Me,Fear,Feeling Safe,Anxiety,Stress,Self-care
+M00063,Talk to Me: Fear,What actions have you taken in response to your fears?,60,4,Talk to Me,Fear,Feeling Safe,Anxiety,Stress,Self-care
+M00064,Reflect on Fears,Describe the feeling of the fear that you've experienced.,90,1,Reflect on,Fear,Feeling Safe,Anxiety,Stress,
+M00064,Reflect on Fears,Describe a fear you have of something that you may not have experienced in real life.,90,2,Reflect on,Fear,Feeling Safe,Anxiety,Stress,
+M00064,Reflect on Fears,What do you think the source of your fears is?,60,3,Reflect on,Fear,Feeling Safe,Anxiety,Stress,
+M00065,Living with Fear,Describe how fear dictates your daily activities.,120,3,Living with,Fear,Feeling Safe,Anxiety,Stress,Confidence
+M00065,Living with Fear,Are their opportunities you are missing out on due to your fear?,60,2,Living with,Fear,Feeling Safe,Anxiety,Stress,Confidence
+M00065,Living with Fear,Describe the last time you were faced with your fear.,90,1,Living with,Fear,Feeling Safe,Anxiety,Stress,Confidence
+M00066,Talk to Me: Feeling Safe,Describe the feeling of security to you.,60,1,Talk to Me,Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00066,Talk to Me: Feeling Safe,What makes you feel secure?,60,2,Talk to Me,Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00066,Talk to Me: Feeling Safe,What don't you have currently that you need to feel secure?,60,3,Talk to Me,Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00066,Talk to Me: Feeling Safe,To what extent is the space you are currently living in ideal or not ideal?,120,4,Talk to Me,Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00067,My Safe Place,Describe some of the places or people that affect your personal security.,60,1,(free form name),Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00067,My Safe Place,"If you could, what would you add to your life to increase your feeling of safety and security?",60,2,(free form name),Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00067,My Safe Place,"If you could, what would you remove to feel more secure?",60,3,(free form name),Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00067,My Safe Place,"Using the five senses, describe a place you've been that makes you happy.",180,1,(free form name),Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00068,"Future Me, Safe Me","If money were not an option, describe the details of your ideal living space.",120,5,Future Me,Feeling Safe,Confidence,Anxiety,Stress,
+M00068,"Future Me, Safe Me","If money were not an option, describe where in the world you'd most like to live.",60,6,Future Me,Feeling Safe,Confidence,Anxiety,Stress,
+M00068,"Future Me, Safe Me",What do you require from the space you live in?,60,3,Future Me,Feeling Safe,Confidence,Anxiety,Stress,
+M00068,"Future Me, Safe Me",What do you desire from the space you live in?,60,2,Future Me,Feeling Safe,Confidence,Anxiety,Stress,
+M00069,Project: My Safe Place,Draw your ideal vision of a safe space. What's in it? Who is in it?,180,,Project,Feeling Safe,Confidence,Anxiety,Stress,Relationships
+M00070,Avoiding Danger,To what extent are you okay with unpleasant thoughts?,60,3,(free form name),Feeling Safe,Anxiety,Fear,,
+M00070,Avoiding Danger,To what extent is it easier to attempt to avoid fears and worries?,90,2,(free form name),Feeling Safe,Anxiety,Fear,,
+M00070,Avoiding Danger,Describe a time where you put off an unpleasant task for your own comfort.,90,1,(free form name),Feeling Safe,Anxiety,Fear,,
+M00070,Avoiding Danger,What coping mechanisms do you use to avoid unpleasant thoughts or tasks?,60,4,(free form name),Feeling Safe,Anxiety,Fear,,
+M00071,Reflect on Feeling Safe,To what extent do you feel that it would be safer to 'stop thinking' sometimes?,60,2,Reflect on,Feeling Safe,Anxiety,Thoughts,Relationships,
+M00071,Reflect on Feeling Safe,Describe a time you kept your thoughts to yourself to feel safe.,90,1,Reflect on,Feeling Safe,Anxiety,Thoughts,Relationships,
+M00071,Reflect on Feeling Safe,How much does your feeling safe depend on the behavior of others?,60,3,Reflect on,Feeling Safe,Anxiety,Thoughts,Relationships,
+M00072,Talk to Me: Disability Challenges,Do you have a seen or unseen disability?,30,1,Talk to Me,Disability,Identity,Feeling Safe,Activity,
+M00072,Talk to Me: Disability Challenges,Describe this disability and how it affects your daily life.,60,2,Talk to Me,Disability,Identity,Feeling Safe,Activity,
+M00072,Talk to Me: Disability Challenges,What would you tell someone who doesn't understand?,60,3,Talk to Me,Disability,Identity,Feeling Safe,Activity,
+M00073,Living with My Disability,Describe how your disability affects your daily life.,90,1,Living with,Disability,Identity,Routine,Relationships,Depression
+M00073,Living with My Disability,Describe how your disability affects your day-to-day mental health.,60,2,Living with,Disability,Identity,Routine,Relationships,Depression
+M00073,Living with My Disability,What do you need that you aren't currently getting?,60,3,Living with,Disability,Identity,Routine,Relationships,Depression
+M00074,My Disability & My World,Describe the ways in which where you live does not account for your disability.,90,1,(free form name),Disability,Identity,Feeling Safe,Self-care,
+M00074,My Disability & My World,Describe a situation where you felt excluded due to a venue’s inaccessibility.,120,2,(free form name),Disability,Identity,Feeling Safe,Self-care,
+M00074,My Disability & My World,Describe your perfect accessible venue. How does that venue make you feel?,90,3,(free form name),Disability,Identity,Feeling Safe,Self-care,
+M00075,My Support System,Describe your current support system. Who and what do you currently rely on?,60,1,Managing,Disability,Being Social,Feeling Safe,Identity,Feeling Safe
+M00075,My Support System,What support system tools do and do not work for you in managing life with disability.,60,2,Managing,Disability,Being Social,Feeling Safe,Identity,Feeling Safe
+M00075,My Support System,What supports will enhance managing life with disability that you are not currently receiving?,60,3,Managing,Disability,Being Social,Feeling Safe,Identity,Feeling Safe
+M00076,Talk to Me: Addiction,Describe your process of self-medication. When did it begin?,60,1,Talk to Me,Addiction,Pain,Being Sick,Medication,Depression
+M00076,Talk to Me: Addiction,Describe your family history with addiction or self-medication,120,4,Talk to Me,Addiction,Pain,Being Sick,Medication,Depression
+M00076,Talk to Me: Addiction,Do you feel like you are powerless over your addiction. Describe when you realized this.,60,3,Talk to Me,Addiction,Pain,Being Sick,Medication,Depression
+M00076,Talk to Me: Addiction,Has there ever been a time when your substance abuse felt unmanageable?,60,2,Talk to Me,Addiction,Pain,Being Sick,Medication,Depression
+M00077,Talk to Me: Family Addiction,Describe your family history as it relates to substance abuse and addiction.,120,1,Talk to Me,Addiction,Relationships,Medication,Depression,Family
+M00077,Talk to Me: Family Addiction,Describe 2 ways you have been impacted by family addiction,90,4,Talk to Me,Addiction,Relationships,Medication,Depression,Family
+M00077,Talk to Me: Family Addiction,How has the relationship with addiction in your family impacted your well being,60,3,Talk to Me,Addiction,Relationships,Medication,Depression,Family
+M00077,Talk to Me: Family Addiction,Describe your family history with addiction as well as your feelings around it.,90,2,Talk to Me,Addiction,Relationships,Medication,Depression,Family
+M00078,Living with Addiction,Describe how your addiction affects your daily life.,60,1,Living with,Addiction,Depression,Medication,Relationships,Routine
+M00078,Living with Addiction,Describe how your addiction affects your day-to-day mental health.,60,2,Living with,Addiction,Depression,Medication,Relationships,Routine
+M00078,Living with Addiction,"Describe methods in that past that you have tried, but were unsuccessful at becoming addiction free",120,3,Living with,Addiction,Depression,Medication,Relationships,Routine
+M00079,Future Me: Addiction,What do I imagine my day-to-day addiction free life looking like?,60,1,Future Me,Addiction,Self-care,Medication,Relationships,Purpose
+M00079,Future Me: Addiction,"What steps if any, do you think you should take in order to become addiction free?",90,3,Future Me,Addiction,Self-care,Medication,Relationships,Purpose
+M00079,Future Me: Addiction,What goals can I achieve that addiction is currently getting in the way of?,90,4,Future Me,Addiction,Self-care,Medication,Relationships,Purpose
+M00079,Future Me: Addiction,What would the day look like if it was 100% addiction free?,60,2,Future Me,Addiction,Self-care,Medication,Relationships,Purpose
+M00080,Reflect on Family Addiction,Pick a time that you chose a substance or addiction over work or family?,90,2,Reflect on,Addiction,Family,Relationships,Career,
+M00080,Reflect on Family Addiction,How is your family life impacted by your addiction?,60,3,Reflect on,Addiction,Family,Relationships,Career,
+M00080,Reflect on Family Addiction,How do you think your friends and family feel about your addiction?,60,4,Reflect on,Addiction,Family,Relationships,Career,
+M00080,Reflect on Family Addiction,Describe your history with family intervention as it pertains to addiction.,90,1,Reflect on,Addiction,Family,Relationships,Career,
+M00081,Managing Addiction,When was the last time you went to a Twelve Step Program?,30,1,Managing,Addiction,Spirituality,Purpose,Care Team,Self-care
+M00081,Managing Addiction,Describe your experience with a Twelve Step Program,60,2,Managing,Addiction,Spirituality,Purpose,Care Team,Self-care
+M00081,Managing Addiction,Describe what you would need to overcome your addiction that you aren't currently getting?,90,3,Managing,Addiction,Spirituality,Purpose,Care Team,Self-care
+M00081,Managing Addiction,What do you need that you aren't currently getting?,90,4,Managing,Addiction,Spirituality,Purpose,Care Team,Self-care
+M00082,Reflect on Addiction,Describe how your addiction affects you physically.,60,1,Reflect on,Addiction,Being Sick,Medication,Nutrition,Pain
+M00082,Reflect on Addiction,Describe a time there were consequences for your actions caused by your addiction.,90,2,Reflect on,Addiction,Being Sick,Medication,Nutrition,Pain
+M00082,Reflect on Addiction,Describe how your addiction affects your daily routine.,90,4,Reflect on,Addiction,Being Sick,Medication,Nutrition,Pain
+M00082,Reflect on Addiction,Describe how your addiction affects your day-to-day mental health.,60,3,Reflect on,Addiction,Being Sick,Medication,Nutrition,Pain
+M00083,Reflect On: Sponsorship/Care Team,Describe your relationship with your sponsor or who is apart of your care team?,120,2,Reflect on,Addiction,Care Team,Relationships,Feeling Safe,
+M00083,Reflect On: Sponsorship/Care Team,Describe the support of your sponsor or care team?,60,1,Reflect on,Addiction,Care Team,Relationships,Feeling Safe,
+M00083,Reflect On: Sponsorship/Care Team,Talk about how the support for your addiction affects your recovery: Positive or Negative.,120,3,Reflect on,Addiction,Care Team,Relationships,Feeling Safe,
+M00084,No Smoking,Describe your relationship with smoking and cigarettes.,60,2,(free form name),Addiction,Routine,Self-care,,
+M00084,No Smoking,Describe your first cigarette,30,1,(free form name),Addiction,Routine,Self-care,,
+M00084,No Smoking,Describe your experience with attempting to quit smoking.,90,3,(free form name),Addiction,Routine,Self-care,,
+M00084,No Smoking,"What strategies, programs and advice have you used to quite or attempt to quit smoking.",120,4,(free form name),Addiction,Routine,Self-care,,
+M00085,Talk to Me: Allergies,Describe your experience with allergies.,60,1,Talk to Me,Allergies,Being Sick,Nutrition,Medication,Activity
+M00085,Talk to Me: Allergies,Describe a time where an allergy has affected your behavior or abilities to function.,60,2,Talk to Me,Allergies,Being Sick,Nutrition,Medication,Activity
+M00085,Talk to Me: Allergies,Describe your feelings during the physical effects of an allergic reaction.,60,3,Talk to Me,Allergies,Being Sick,Nutrition,Medication,Activity
+M00086,Talk to Me: Pandemic,Describe how the pandemic has affected your life the most.,180,1,Talk to Me,Being Sick,Career,Finances,Relationships,Purpose
+M00086,Talk to Me: Pandemic,Describe your worries for life after the pandemic.,90,2,Talk to Me,Being Sick,Career,Finances,Relationships,Purpose
+M00086,Talk to Me: Pandemic,Describe your hopes for life after the pandemic.,120,3,Talk to Me,Being Sick,Career,Finances,Relationships,Purpose
+M00087,Reflect on the Pandemic,What are some things you have gotten better at during the pandemic?,60,2,Reflect on,Being Sick,Identity,Mood,Activity,Relationships
+M00087,Reflect on the Pandemic,Has the pandemic allowed you to leave certain things behind?,120,3,Reflect on,Being Sick,Identity,Mood,Activity,Relationships
+M00087,Reflect on the Pandemic,Has the pandemic created any new concerns for you that you'd not previously experienced?,180,1,Reflect on,Being Sick,Identity,Mood,Activity,Relationships
+M00087,Reflect on the Pandemic,"Describe any ways if any, that you used as a coping mechanism during the pandemic",90,4,Reflect on,Being Sick,Identity,Mood,Activity,Relationships
+M00088,Talk to Me: Media Consumption,Describe how the media you consume affects your quality of life.,120,2,Talk to Me,Media Consumption,Anxiety,Mood,Self-esteem,-
+M00088,Talk to Me: Media Consumption,Describe the types of media and entertainment you routinely consume.,120,3,Talk to Me,Media Consumption,Anxiety,Mood,Self-esteem,-
+M00088,Talk to Me: Media Consumption,Describe your reaction to current news media and how much you do or not follow it.,180,1,Talk to Me,Media Consumption,Anxiety,Mood,Self-esteem,-
+M00089,Reflect On: Media Consumption,Describe your level of trust in media.,30,1,Reflect on,Media Consumption,Anxiety,Feelings,Thoughts,-
+M00089,Reflect On: Media Consumption,How does technology and media postively impact your life?,90,3,Reflect on,Media Consumption,Anxiety,Feelings,Thoughts,-
+M00089,Reflect On: Media Consumption,How does technology and media negatively impact your life?,60,2,Reflect on,Media Consumption,Anxiety,Feelings,Thoughts,-
+M00090,Talk to Me: Self-Image,Describe the feelings you have surrounding your body image.,90,1,Talk to Me,Self-esteem,Self-love,Self-care,Nutrition,Identity
+M00090,Talk to Me: Self-Image,Describe a time where you compared your body to someone else’s.,60,2,Talk to Me,Self-esteem,Self-love,Self-care,Nutrition,Identity
+M00090,Talk to Me: Self-Image,Describe the feelings have you associated with your own body?,60,3,Talk to Me,Self-esteem,Self-love,Self-care,Nutrition,Identity
+M00091,Talk to Me: Self-Esteem,Describe the good qualities you recognize in yourself.,60,1,Talk to Me,Self-esteem,Self-love,Passion,Purpose,-
+M00091,Talk to Me: Self-Esteem,What successes are you currently striving for?,60,2,Talk to Me,Self-esteem,Self-love,Passion,Purpose,-
+M00091,Talk to Me: Self-Esteem,What do you love most about yourself?,60,3,Talk to Me,Self-esteem,Self-love,Passion,Purpose,-
+M00091,Talk to Me: Self-Esteem,"What esteemable acts do you do, in order to feel proud of yourself?",60,4,Talk to Me,Self-esteem,Self-love,Passion,Purpose,-
+M00092,Talk to Me: Sex,Describe your comfort with sex and sexual health.,60,2,Talk to Me,Sex,Relationships,Confidence,Identity,Physiology
+M00092,Talk to Me: Sex,Describe your comfort discussing sex and sexual health,30,3,Talk to Me,Sex,Relationships,Confidence,Identity,Physiology
+M00092,Talk to Me: Sex,Describe any questions or concerns you have regarding your sexual health.,60,1,Talk to Me,Sex,Relationships,Confidence,Identity,Physiology
+M00093,Sex.EDU,How do you feel about sex and your own sexuallity,60,4,(free form name),Sex,Relationships,Female Health,Family,Male Health
+M00093,Sex.EDU,Where did you first learn about sex and from who?,60,1,(free form name),Sex,Relationships,Female Health,Family,Male Health
+M00093,Sex.EDU,What are your most trusted sources about sex and sexual health?,60,2,(free form name),Sex,Relationships,Female Health,Family,Male Health
+M00093,Sex.EDU,What access do you have to safe and quality sexual health care. Is it enough?,60,3,(free form name),Sex,Relationships,Female Health,Family,Male Health
+M00093,Sex.EDU,Describe a situation where you sought support for your sexual health.,90,5,(free form name),Sex,Relationships,Female Health,Family,Male Health
+M00094,Reflect on Sex,Describe the level to which you feel sexually fulfilled.,180,2,Reflect on,Sex,Relationships,Identity,Physiology,Activity
+M00094,Reflect on Sex,Do you feel you and your partner(s) have open communication when it comes to sex?,120,3,Reflect on,Sex,Relationships,Identity,Physiology,Activity
+M00094,Reflect on Sex,Describe what else was happening in your life during times where you've felt sexually fulfilled.,180,4,Reflect on,Sex,Relationships,Identity,Physiology,Activity
+M00094,Reflect on Sex,Is your level sexual fulfilment affected by any physical barriers?,60,1,Reflect on,Sex,Relationships,Anxiety,Physiology,Activity
+M00095,Sexual Boundaries,Who can you discuss sex and sexual health with right now?,90,3,(free form name),Sex,Being Social,Relationships,Media Consumption,Feeling Safe
+M00095,Sexual Boundaries,To what extent do you feel society doesn't talk about sex enough?,60,4,(free form name),Sex,Being Social,Relationships,Media Consumption,Feeling Safe
+M00095,Sexual Boundaries,To what extent do you feel that society is too sex obsessed?,30,5,(free form name),Sex,Being Social,Relationships,Media Consumption,Feeling Safe
+M00095,Sexual Boundaries,"When it comes to intimate relationships, do you have any rules as it pertains to sex?",60,2,(free form name),Sex,Being Social,Relationships,Media Consumption,Feeling Safe
+M00095,Sexual Boundaries,To what extent did you grow up in a family for which discussions about sex were off limits?,60,1,(free form name),Sex,Being Social,Relationships,Media Consumption,Feeling Safe
+M00096,My Gender Identity,Describe any questions you have about gender identity?,60,3,(free form name),Identity,Sex,Relationships,Self-love,-
+M00096,My Gender Identity,How would you describe your gender?,60,1,(free form name),Identity,Sex,Relationships,Self-love,-
+M00096,My Gender Identity,Describe a time you didn't feel free to express your gender identity.,90,2,(free form name),Identity,Sex,Relationships,Self-love,-
+M00097,My Sexual Identity,Describe any questions you have about sexual identity or orientation.,60,1,(free form name),Sex,Identity,Self-love,Male Health,Female Health
+M00097,My Sexual Identity,How would you describe your sexual identity?,30,2,(free form name),Sex,Identity,Self-love,Male Health,Female Health
+M00097,My Sexual Identity,Describe a time you didn't feel free to express your sexual identity.,90,3,(free form name),Sex,Identity,Self-love,Male Health,Female Health
+M00098,Talk to Me: The Self,To what extent do you like yourself?,60,1,Talk to Me,Self-love,Self-esteem,Confidence,Mood,Identity
+M00098,Talk to Me: The Self,To what extent do you feel that you know yourself?,90,2,Talk to Me,Self-love,Self-esteem,Confidence,Mood,Identity
+M00099,Time on My Side,To what extent do you feel like you are using your time well?,60,2,(free form name),Mindfulness,Thoughts,Purpose,Passion,Self-esteem
+M00099,Time on My Side,Describe a time where you feel like you were 'wasting' time?,120,4,(free form name),Mindfulness,Thoughts,Purpose,Passion,Self-esteem
+M00099,Time on My Side,To what extent is being 'efficient' with your time important to you?,180,6,(free form name),Mindfulness,Thoughts,Purpose,Passion,Self-esteem
+M00099,Time on My Side,"If you had more hours in a day, what would you do with them?",90,5,(free form name),Mindfulness,Thoughts,Purpose,Passion,Self-esteem
+M00099,Time on My Side,Describe a time where you felt someone was wasting your time.,120,3,(free form name),Mindfulness,Thoughts,Purpose,Passion,Self-esteem
+M00099,Time on My Side,Describe the importance of schedules to you.,90,1,(free form name),Mindfulness,Thoughts,Purpose,Passion,Self-esteem
+M00100,Living with Purpose,What do you feel your purpose is on Earth?,120,1,Living with,Purpose,Identity,Anxiety,Fear,-
+M00100,Living with Purpose,Do you ever worry about your purpose in life?,60,4,Living with,Purpose,Identity,Anxiety,Fear,-
+M00100,Living with Purpose,What qualities do you think make for a purposeful life.,120,3,Living with,Purpose,Identity,Anxiety,Fear,-
+M00100,Living with Purpose,Describe some people who you feel are living purposefully.,120,2,Living with,Purpose,Identity,Anxiety,Fear,-
+M00101,Reflect on Passion,What are your passions?,120,1,Reflect on,Passion,Identity,Feelings,Career,Purpose
+M00101,Reflect on Passion,"If money and work were not an issue, describe the passions you'd pursue.",90,4,Reflect on,Passion,Identity,Feelings,Career,Purpose
+M00101,Reflect on Passion,To what extent do you feel like your day-to-day life is a barrier to your passions?,180,3,Reflect on,Passion,Identity,Feelings,Career,Purpose
+M00101,Reflect on Passion,What do you think it means to 'live passionately',120,5,Reflect on,Passion,Identity,Feelings,Career,Purpose
+M00101,Reflect on Passion,Do you think that passion is a luxury or a necessity?,90,2,Reflect on,Passion,Identity,Feelings,Career,Purpose
+M00102,Living with Compassion,Do you feel like you are a compassionate person? Why or why not.,120,4,Living with,Compassion,Empathy,Self-love,Identity,Relationships
+M00102,Living with Compassion,Describe the causes you feel are most worthwhile to you.,60,6,Living with,Compassion,Empathy,Self-love,Identity,Relationships
+M00102,Living with Compassion,Do you find it easier to show compassion to others than to yourself?,120,5,Living with,Compassion,Empathy,Self-love,Identity,Relationships
+M00102,Living with Compassion,Describe a time where you felt you were compassionate to another person.,180,2,Living with,Compassion,Empathy,Self-love,Identity,Relationships
+M00102,Living with Compassion,Describe a time where you felt you lacked compassion towards another person.,180,1,Living with,Compassion,Empathy,Self-love,Identity,Relationships
+M00102,Living with Compassion,To what extent do you trust others to be compassionate toward you?,120,3,Living with,Compassion,Empathy,Self-love,Identity,Relationships
+M00103,Becoming Compassionate,Describe any barriers you perceive preventing you from being compassionate.,180,2,Future Me,Compassion,Empathy,Relationships,Love,-
+M00103,Becoming Compassionate,What circumstances do you require to exercise the level of compassion you aspire to?,120,3,Future Me,Compassion,Empathy,Relationships,Love,-
+M00103,Becoming Compassionate,What situations do you most want to apply your compassion to?,60,1,Future Me,Compassion,Empathy,Relationships,Love,
+M00104,Living Creative,Describe the ways in which you inject creativity into your daily life.,120,3,Living with,Creativity,Mindfulness,Mood,Thoughts,Spirituality
+M00104,Living Creative,In which ways do you wish you were more creative on a day-to-day basis?,60,1,Living with,Creativity,Mindfulness,Mood,Thoughts,Spirituality
+M00104,Living Creative,Describe a time and circumstances in your life when you felt the most creative?,120,2,Living with,Creativity,Mindfulness,Mood,Thoughts,Spirituality
+M00105,Creative Me,Do you experience any barriers when being or attempting to be creative?,60,1,(free form name),Creativity,Mindfulness,Mood,Thoughts,Spirituality
+M00105,Creative Me,"(Other than now), describe a time in the last two weeks that you've been creative.",90,2,(free form name),Creativity,Mindfulness,Mood,Thoughts,Spirituality
+M00106,Reflect on Creativity,How important is a creative life to you?,60,2,Reflect on,Creativity,Mindfulness,Mood,Thoughts,Passion
+M00106,Reflect on Creativity,What do you feel would be the perfect setting for you to exercise creativity?,60,3,Reflect on,Creativity,Mindfulness,Mood,Thoughts,Passion
+M00106,Reflect on Creativity,Who is the most creative person you know and what are your feelings towards that person?,120,1,Reflect on,Creativity,Mindfulness,Mood,Thoughts,Passion
+M00107,My Future Hopes,Do you feel optimistic about the future?,60,1,(free form name),Mood,Purpose,Anxiety,Being Content,Ambition
+M00107,My Future Hopes,What are some things you look forward to?,60,2,(free form name),Mood,Purpose,Anxiety,Being Content,Ambition
+M00107,My Future Hopes,What are some things you worry about?,60,3,(free form name),Mood,Purpose,Anxiety,Being Content,Ambition
+M00108,Explore: Gratitude,To what extent are you grateful for the things you have.,90,1,Explore,Mindfulness,Purpose,Relationships,-,-
+M00108,Explore: Gratitude,To what extent do you show gratitude in your relationships.,60,3,Explore,Mindfulness,Purpose,Relationships,-,-
+M00108,Explore: Gratitude,How confident are you that you are showing gratitude on a daily basis.,60,2,Explore,Mindfulness,Purpose,Relationships,-,-
+M00109,Project: Gratitude,Write down a list of the things you are most grateful for today. Nothing is too small or big. Share this list out-loud.,180,1,Project,Mindfulness,Purpose,-,-,-
+M00109,Project: Gratitude,"Send someone a message right now telling them that you are grateful to them for something they've recently helped you with. Beyond thank you, try to explain how their assistance made something easier, less stressful, or even more fun for you.",120,2,Project,Mindfulness,Purpose,,,
+M00110,Managing: Self-Care,Describe what self-care means to you.,90,1,Managing,Self-care,Mood,Self-love,Mindfulness,
+M00110,Managing: Self-Care,How do you make time for self care? How often?,60,3,Managing,Self-care,Mood,Self-love,Mindfulness,
+M00110,Managing: Self-Care,Explain the importance of self-care in your life.,60,2,Managing,Self-care,Mood,Self-love,Mindfulness,
+M00111,My Identity,What do you wish people knew about how you self-identify?,80,1,(free form name),Identity,Self-esteem,Self-love,Confidence,Relationships
+M00111,My Identity,Describe any resistance you face when it comes to how you self-identify.,60,2,(free form name),Identity,Self-esteem,Self-love,Confidence,Relationships
+M00111,My Identity,Describe how your identity excludes you from certain communities.,120,3,(free form name),Identity,Self-esteem,Self-love,Confidence,Relationships
+M00111,My Identity,Describe ways in which your identity does not fit into perceived norms.,80,4,(free form name),Identity,Self-esteem,Self-love,Confidence,Relationships
+M00111,My Identity,Describe communities that you do feel included in when it comes to identity.,60,5,(free form name),Identity,Self-esteem,Self-love,Confidence,Relationships
+M00112,Talk to Me: Nutrition,How do you feel after eating a meal?,30,1,Talk to Me,Nutrition,Feelings,Thoughts,Stress,-
+M00112,Talk to Me: Nutrition,Do you ever feel like you eat too much or too little? Describe.,60,2,Talk to Me,Nutrition,Feelings,Thoughts,Stress,-
+M00112,Talk to Me: Nutrition,"How does eating a balance of healthy fats, protein, and vegetables make you feel?",90,3,Talk to Me,Nutrition,Feelings,Thoughts,Stress,-
+M00113,My Relationship with Food,Describe your relationship with food.,120,1,Reflect on,Nutrition,Feelings,Thoughts,Physiology,Being Content
+M00113,My Relationship with Food,"Describe how important, if at all, caloric intake is to you?",60,2,Reflect on,Nutrition,Feelings,Thoughts,Physiology,Being Content
+M00113,My Relationship with Food,How often in the past week have you planned your meal/meals in advance?,60,3,Reflect on,Nutrition,Feelings,Thoughts,Physiology,Being Content
+M00113,My Relationship with Food,What does it feel like to eat until you are satiated?,30,4,Reflect on,Nutrition,Feelings,Thoughts,Physiology,Being Content
+M00113,My Relationship with Food,What emotions come up around food? Describe if food is or has been a comfort tool for you.,120,5,Reflect on,Nutrition,Feelings,Thoughts,Physiology,Being Content
+M00114,My Relationship with Food,"What was the dynamic around meals when your were growing up? Was there a tradition, routine, describe what you can recall.",180,1,Reflect on,Nutrition,Family,Thoughts,Relationships,-
+M00114,My Relationship with Food,Describe some people in your life that you share the same relationship with food. Why do you relate to them?,120,2,Reflect on,Nutrition,Family,Thoughts,Relationships,-
+M00115,Am I what I eat?,Describe your typical food consumption.,60,1,(free form name),Nutrition,Finances,Feelings,-,-
+M00115,Am I what I eat?,Describe your physical distance from the nearest grocery options.,60,2,(free form name),Nutrition,Finances,Feelings,,
+M00115,Am I what I eat?,Describe your access to food and the effect this has on your diet.,60,3,(free form name),Nutrition,Finances,Feelings,,
+M00116,Project: Nutrition,"This week, write down everything you eat on a piece of paper or in a journal. At the end of the week, reflect on this list. Any surprises?",3600,1,Project,Nutrition,Self-care,Routine,Physiology,-
+M00117,Talk to Me: Spirituality,Describe the place mindfulness has in your life.,60,1,Talk to Me,Spirituality,Identity,Thoughts,Mindfulness,-
+M00117,Talk to Me: Spirituality,Describe the place spirituality has in your life.,60,2,Talk to Me,Spirituality,Identity,Thoughts,Mindfulness,-
+M00117,Talk to Me: Spirituality,Describe the place religion has in your life.,60,3,Talk to Me,Spirituality,Identity,Thoughts,Mindfulness,-
+M00118,Reflect On: Spirituality,To what extent do you believe life is dictated by our own decisions?,90,1,Reflect on,Spirituality,Thoughts,Mindfulness,-,-
+M00118,Reflect On: Spirituality,To what extent do you believe life is dictated by fate?,90,2,Reflect on,Spirituality,Thoughts,Mindfulness,-,-
+M00119,Living Spiritually,Describe what role you feel faith has in helping you make decisions.,60,1,Living with,Spirituality,Relationships,Mindfulness,Mood,-
+M00119,Living Spiritually,Describe what role you feel faith has in your personal relationships.,60,2,Living with,Spirituality,Relationships,Mindfulness,Mood,-
+M00119,Living Spiritually,To what extent is it important that a partner shares your spiritual perspective?,90,3,Living with,Spirituality,Relationships,Mindfulness,Mood,-
+M00120,Spiritual Awakening,What does spiritual awakening mean to you?,90,1,(free form name),Spirituality,Mood,Relationships,Feeling Safe,
+M00120,Spiritual Awakening,Describe spiritual awakening and how it changed you.,90,2,(free form name),Spirituality,Mood,Relationships,Feeling Safe,-
+M00121,Future Me: Spirituality,Describe what you feel you'd need to achieve a more spiritual life style.,90,1,Future Me,Spirituality,Self-love,Relationships,Feeling Safe,
+M00121,Future Me: Spirituality,To what extent do you see spirituality being more important in your life going forward,90,2,Future Me,Spirituality,Self-love,Relationships,Feeling Safe,
+M00121,Future Me: Spirituality,Describe any obstacles you feel prevent you from living a more spiritual life.,120,3,Future Me,Spirituality,Self-love,Relationships,Feeling Safe,
+M00122,Talk to Me: Finances,Describe your financial reality growing up.,120,2,Talk to Me,Finances,Anxiety,Purpose,Family,-
+M00122,Talk to Me: Finances,Describe your current feelings surrounding money.,60,3,Talk to Me,Finances,Anxiety,Purpose,Family,-
+M00122,Talk to Me: Finances,How important is money to you?,90,1,Talk to Me,Finances,Anxiety,Purpose,Family,-
+M00123,Future Me: Fiances,Describe your ideal financial situation.,90,1,Future Me,Finances,Anxiety,Purpose,-,-
+M00123,Future Me: Fiances,Describe the steps you would need to take to improve your financial situation.,120,2,Future Me,Finances,Anxiety,Purpose,-,-
+M00124,Reflect On: Finances,To what extent does money prevent you from reaching the personal goals you have?,90,1,Reflect on,Finances,Anxiety,Purpose,Passion,Relationships
+M00124,Reflect On: Finances,Who is most affected by your current financial situation?,60,3,Reflect on,Finances,Anxiety,Purpose,Passion,Relationships
+M00124,Reflect On: Finances,Describe where most of your money currently goes.,90,2,Reflect on,Finances,Anxiety,Purpose,Passion,Relationships
+M00125,Living With: Job Loss,Describe your recent experience with job loss.,180,1,Living with,Career,Confidence,Purpose,Finances,
+M00125,Living With: Job Loss,To what extent do you feel confident that you will get another job.,60,3,Living with,Career,Confidence,Purpose,Finances,
+M00125,Living With: Job Loss,To what extent do you feel that you have skills that are valuable to an employer.,90,4,Living with,Career,Confidence,Purpose,Finances,
+M00125,Living With: Job Loss,Describe what your next steps are in looking for a new job.,120,5,Living with,Career,Confidence,Purpose,Finances,
+M00125,Living With: Job Loss,Describe any benefits or opportunities you see arising due to your recent job loss.,90,2,Living with,Career,Confidence,Purpose,Finances,
+M00126,Living With: Financial Fear,Describe some of your fears as it pertains to finances.,90,2,Living with,Finances,Fear,Anxiety,,
+M00126,Living With: Financial Fear,To what extent do you avoid thinking about money.,60,1,Living with,Finances,Fear,Anxiety,,
+M00126,Living With: Financial Fear,To what extent are you planning ahead to address any financial worries you have.,90,3,Living with,Finances,Fear,Anxiety,,
+M00127,Talk to Me: Poverty,Explain two ways that you manage your income the best that you can.,90,3,Talk to Me,Finances,Fear,Anxiety,,
+M00127,Talk to Me: Poverty,Describe how your finances affect your mental health.,60,1,Talk to Me,Finances,Fear,Anxiety,,
+M00127,Talk to Me: Poverty,Describe the support team you have when dealing with any financial struggles.,90,2,Talk to Me,Finances,Fear,Anxiety,,
+M00128,Talk to Me: Decision Making,Describe your thought process when faced with a difficult decision.,90,3,Talk to Me,Decision Making,Confidence,Self-esteem,Career,Relationships
+M00128,Talk to Me: Decision Making,To what extent do you believe you are good at decision making?,60,4,Talk to Me,Decision Making,Confidence,Self-esteem,Career,Relationships
+M00128,Talk to Me: Decision Making,To what extent do you feel you are asked to make important decisions?,120,2,Talk to Me,Decision Making,Confidence,Self-esteem,Career,Relationships
+M00128,Talk to Me: Decision Making,Who is affected by the decisions you make?,90,1,Talk to Me,Decision Making,Confidence,Self-esteem,Career,Relationships
+M00129,Reflect on Your Decisions,Describe a time where you made a quick decision and the outcome was good.,120,1,Reflect on,Decision Making,Confidence,Self-esteem,,-
+M00129,Reflect on Your Decisions,Describe a time where you made a quick decision and the outcome was less than ideal.,90,2,Reflect on,Decision Making,Confidence,Self-esteem,-,-
+M00130,Confident Me,Describe a situation in the past two weeks you've felt confident.,90,1,(free form name),Confidence,Self-esteem,Ambition,Decision Making,Being Content
+M00130,Confident Me,Describe a time where a lack of confidence affected some aspect of your life.,60,2,(free form name),Confidence,Self-esteem,Ambition,Decision Making,Being Content
+M00130,Confident Me,Describe an opportunity you feel you are missing out due to a lack of self-confidence.,60,3,(free form name),Confidence,Self-esteem,Ambition,Decision Making,Being Content
+M00131,99 Problems,Do you consider yourself a leader when it comes to solving problems?,120,1,(free form name),Problem Solving,Self-esteem,Confidence,Creativity,-
+M00131,99 Problems,What qualities do you possess that are valuable to solving problems?,90,2,(free form name),Problem Solving,Self-esteem,Confidence,Creativity,-
+M00131,99 Problems,What qualities do you possess that can be obstacles to solving problems?,90,3,(free form name),Problem Solving,Self-esteem,Confidence,Creativity,-
+M00132,Make a Decision,Describe what role you feel faith has in helping you make decisions.,90,1,(free form name),Decision Making,Spirituality,Addiction,Confidence,Relationships
+M00132,Make a Decision,Have you made important decisions under the influence of drugs and alcohol?,30,2,(free form name),Decision Making,Spirituality,Addiction,Confidence,Relationships
+M00132,Make a Decision,To what extent do you feel luck plays in the outcome of a decision.,60,3,(free form name),Decision Making,Spirituality,Addiction,Confidence,Relationships
+M00132,Make a Decision,To what extent do you rely on others to help you make decisions?,90,4,(free form name),Decision Making,Spirituality,Addiction,Confidence,Relationships
+M00133,Living with Regret,To what extent are you someone who lives with regret?,90,1,Living with,Decision Making,Being Content,-,-,-
+M00133,Living with Regret,"If you could go back in time and change one thing, what might it be?",60,3,Living with,Decision Making,Being Content,-,-,-
+M00133,Living with Regret,Describe a time where regret kept you from living your most fulfilling life.,90,2,Living with,Decision Making,Being Content,-,-,-
+M00133,Living with Regret,To what extent do you believe that regrets are something you can move on from?,90,4,Living with,Decision Making,Being Content,-,-,-
+M00134,Managing Problems,Describe some of things you do to cope with difficulties in your life.,90,2,Managing,Problem Solving,Thoughts,Feelings,-,-
+M00134,Managing Problems,Describe a time when you thought you were coping with a problem instead of trying to solve it.,120,3,Managing,Problem Solving,Thoughts,Feelings,-,-
+M00134,Managing Problems,To what extent do you believe that all problems have a solution?,60,1,Managing,Problem Solving,Thoughts,Feelings,-,-
+M00135,Talk to Me: Cancer,Describe how your cancer diagnosis has disrupted your life.,120,2,Talk to Me,Cancer,Mood,Routine,Feelings,Physiology
+M00135,Talk to Me: Cancer,Describe a typical day since your cancer diagnosis.,90,3,Talk to Me,Cancer,Mood,Routine,Feelings,Physiology
+M00135,Talk to Me: Cancer,What have you learned since your cancer diagnosis?,120,4,Talk to Me,Cancer,Mood,Routine,Feelings,Physiology
+M00135,Talk to Me: Cancer,What feelings do you experience now that you did not before your cancer diagnosis.,180,1,Talk to Me,Cancer,Mood,Routine,Feelings,Physiology
+M00136,Living With: Cancer,To what extent do you experience feelings of guilt since your cancer diagnosis?,120,1,Living with,Cancer,Relationships,Decision Making,Care Team,Family
+M00136,Living With: Cancer,Who else has your cancer diagnosis affected?,90,3,Living with,Cancer,Relationships,Decision Making,Care Team,Family
+M00136,Living With: Cancer,To what extent do you have hope surrounding your cancer diagnosis.,120,2,Living with,Cancer,Relationships,Decision Making,Care Team,Family
+M00137,Cancer and Hope,What are your sources of hope as it relates to your cancer diagnosis.,90,2,Living with,Cancer,Mood,Feelings,Mindfulness,-
+M00137,Cancer and Hope,To what extent do you feel hopeless when thinking about your cancer diagnosis.,90,3,Living with,Cancer,Mood,Feelings,Mindfulness,-
+M00137,Cancer and Hope,To what extent has your career been affected by your cancer diagnosis.,60,1,Living with,Cancer,Mood,Feelings,Mindfulness,-
+M00138,Managing: Cancer,To what extent are you able to find moments of joy while living with cancer?,90,3,Managing,Cancer,Mood,Happiness,Activity,
+M00138,Managing: Cancer,"What are you sources of hope, joy, and optimism since your cancer diagnosis.",120,4,Managing,Cancer,Mood,Happiness,Activity,
+M00138,Managing: Cancer,Describe activities which you have felt a loss of pleasure in since your cancer diagnosis.,180,1,Managing,Cancer,Mood,Happiness,Activity,
+M00138,Managing: Cancer,Describe your confidence in the cancer treatment you are currently receiving.,90,2,Managing,Cancer,Mood,Happiness,Activity,
+M00139,My Cancer Support System,Describe the support you are receiving at home since your cancer diagnosis.,90,1,(free form name),Cancer,Relationships,Care Team,Self-care,-
+M00139,My Cancer Support System,To what extent is your family supporting you during your cancer treatment.,60,2,(free form name),Cancer,Relationships,Care Team,Self-care,
+M00139,My Cancer Support System,To what extent is your partner supporting your during you cancer treatment.,60,3,(free form name),Cancer,Relationships,Care Team,Self-care,
+M00140,My Cancer co-Pilots,Describe how cancer has changed your relationship with your partner.,120,2,(free form name),Cancer,Relationships,Sex,Love,
+M00140,My Cancer co-Pilots,Describe the relationships you count on the most since your cancer diagnosis.,120,3,(free form name),Cancer,Relationships,Sex,Love,
+M00140,My Cancer co-Pilots,Is there support you need that aren't currently receiving?,90,1,(free form name),Cancer,Relationships,Sex,Love,
+M00141,Cancer and Mental Wellness,Describe any negative thinking you experience as it relates to your cancer diagnosis.,90,3,(free form name),Cancer,Self-love,Self-esteem,Depression,Mood
+M00141,Cancer and Mental Wellness,How often do you feel your thoughts have been negative since your cancer diagnosis.,60,2,(free form name),Cancer,Self-love,Self-esteem,Depression,Mood
+M00141,Cancer and Mental Wellness,To what extent has your self-image changed since your cancer diagnosis,90,1,(free form name),Cancer,Self-love,Self-esteem,Depression,Mood
+M00142,Battling Cancer,To what extent have you wanted to stop your cancer treatment?,60,3,(free form name),Cancer,Anxiety,Depression,Being Social,Mindfulness
+M00142,Battling Cancer,To what extent have you experienced cancer-related depression?,60,4,(free form name),Cancer,Anxiety,Depression,Being Social,Mindfulness
+M00142,Battling Cancer,Describe some things you wish people would stop saying to you as it pertains to your cancer.,90,1,(free form name),Cancer,Anxiety,Depression,Being Social,Mindfulness
+M00142,Battling Cancer,Describe some things which are not helpful as it pertains to cancer and your mental well-being.,90,2,(free form name),Cancer,Anxiety,Depression,Being Social,Mindfulness
+M00143,Talk to Me: Women's Health,"In the past 3 years, have you had your annual pap-smear? Describe if it was normal or abnormal.",30,3,Talk to Me,Female Health,Fertility,Physiology,-,-
+M00143,Talk to Me: Women's Health,Is there a history of any women's heathcare diagnosis that run in your family?,60,2,Talk to Me,Female Health,Fertility,Physiology,-,-
+M00143,Talk to Me: Women's Health,Describe your relationship with your gynocologist.,60,1,Talk to Me,Female Health,Fertility,Physiology,,
+M00144,Talk to Me: Menstruation,How long does each period last? Does your cycle run on a 28 day calendar or longer? Explain,90,1,Talk to Me,Female Health,Fertility,Pain,,
+M00144,Talk to Me: Menstruation,What do you need to manage your menstrual cycle?,60,2,Talk to Me,Female Health,Fertility,Pain,,
+M00144,Talk to Me: Menstruation,Describe how you track your cycle.,39,3,Talk to Me,Female Health,Fertility,Pain,,
+M00145,Living with: Premenstrual Problems,"To what extent do you experience problems like bloating, breast tenderness and irritability?",60,3,Living with,Female Health,Physiology,Mood,Pain,Routine
+M00145,Living with: Premenstrual Problems,Have you found exercise or any supplement to manage PMS symtoms? Describe,60,2,Living with,Female Health,Physiology,Mood,Pain,Routine
+M00145,Living with: Premenstrual Problems,Have you experienced PMS symptoms that entire with your quality of life?,90,1,Living with,Female Health,Physiology,Mood,Pain,Routine
+M00146,Living with: Premenstrual Problems,To what extent do menstrual disorders disrupt your daily activities.,90,1,Living with,Female Health,Fertility,Routine,Physiology,Pain
+M00146,Living with: Premenstrual Problems,Describe the physical experience of PMDD/endometriosis,120,3,Living with,Female Health,Fertility,Routine,Physiology,Pain
+M00146,Living with: Premenstrual Problems,Describe how PMDD/endometriosis affect your mental well-being,90,2,Living with,Female Health,Fertility,Routine,Physiology,Pain
+M00146,Living with: Premenstrual Problems,Desrribe the treatments you have received to alleviate the symptoms of PMDD/endometriosis.,120,4,Living with,Female Health,Fertility,Routine,Physiology,Pain
+M00147,Talk to Me: Menopause,Describe which symptoms you experience related to menopause.,90,1,Talk to Me,Female Health,Aging,Sex,Mindfulness,Mood
+M00147,Talk to Me: Menopause,Desribe how long you've been experiencing perimenopause/menopause.,60,2,Talk to Me,Female Health,Aging,Sex,Mindfulness,Mood
+M00147,Talk to Me: Menopause,Describe a time where menopause has interfered with your quality of life,90,3,Talk to Me,Female Health,Aging,Sex,Mindfulness,Mood
+M00148,Living With Menopause,Describe lifestyle changes since menopause/postmenopause,120,2,Living with,Female Health,Physiology,Pain,Routine,Aging
+M00148,Living With Menopause,Describe the mental health changes you have experienced during menopause,90,1,Living with,Female Health,Physiology,Pain,Routine,Aging
+M00149,Managing: Menopause,"Describe the type of relief from hormonal therapy you find helpful. If none, explain.",90,2,Talk to Me,Female Health,Self-care,Mood,Medication,Aging
+M00149,Managing: Menopause,Describe some of the things you find most difficult to cope with during menopause,90,3,Talk to Me,Female Health,Self-care,Mood,Medication,Aging
+M00149,Managing: Menopause,Do you include a routine of self-care to manage menopause symptoms. What is most effective?,60,1,Talk to Me,Female Health,Self-care,Mood,Medication,Aging
+M00150,Talk to Me: Contraception,Is contraception something that you and your partner discussed together? Explain,90,2,Talk to Me,Female Health,Fertility,Sex,Relationships,Decision Making
+M00150,Talk to Me: Contraception,What are the types of contracteption you prefer?,60,1,Talk to Me,Female Health,Fertility,Sex,Relationships,Decision Making
+M00150,Talk to Me: Contraception,"How do you manage the side effects of contraception, if any. Describe",90,3,Talk to Me,Female Health,Fertility,Sex,Relationships,Decision Making
+M00151,Getting Pregnant,To what extent was getting pregnant an easy process for you?,90,1,(free form name),Female Health,Medication,Fertility,Sex,
+M00151,Getting Pregnant,Describe any experience you've had with fertility clinics or fertility doctors.,120,3,(free form name),Female Health,Medication,Fertility,Sex,
+M00151,Getting Pregnant,Describe any experience you've had with fertility medication or procedures.,120,4,(free form name),Female Health,Medication,Fertility,Sex,
+M00151,Getting Pregnant,Describe any experience you've had with fertility trackers.,90,2,(free form name),Female Health,Medication,Fertility,Sex,
+M00152,Being Pregnant,Describe the support system you have or had during pregnancy,120,2,Reflect on,Female Health,Fertility,Relationships,Care Team,
+M00152,Being Pregnant,Describe any complications you may have experienced during pregnancy,90,4,Reflect on,Female Health,Fertility,Relationships,Care Team,
+M00152,Being Pregnant,Describe your feelings and mood throughout your pregnancy?,90,3,Reflect on,Female Health,Fertility,Relationships,Care Team,
+M00152,Being Pregnant,To what extent did you love being pregnant?,60,1,Reflect on,Female Health,Fertility,Relationships,Care Team,
+M00153,Preganancy Complications,Describe any complications you've had during pregnancy.,120,3,(free form name),Female Health,Mood,Relationships,Care Team,Fertility
+M00153,Preganancy Complications,To what extent have you received mental health support for pregnancy complications,60,2,(free form name),Female Health,Mood,Relationships,Care Team,Fertility
+M00153,Preganancy Complications,Describe the people in your life that supported you during this time.,90,1,(free form name),Female Health,Mood,Relationships,Care Team,Fertility
+M00154,Future Me: Pregnant,Describe any obstacles that you worry about as it pertains to being pregnant.,120,1,Future Me,Female Health,Physiology,Fertility,Relationships,Mindfulness
+M00154,Future Me: Pregnant,What feelings do you have when you think about becoming pregnant?,90,3,Future Me,Female Health,Physiology,Fertility,Relationships,Mindfulness
+M00154,Future Me: Pregnant,Describe your support system in your desire to become pregnant,60,2,Future Me,Female Health,Physiology,Fertility,Relationships,Mindfulness
+M00155,Talk to Me: Motherhood,To what extent is being a mother the most important part of your identity.,90,3,Talk to Me,Parenting,Relationships,Female Health,Career,
+M00155,Talk to Me: Motherhood,To what extent do you worry that being a mother will affect your career goals?,90,2,Talk to Me,Parenting,Relationships,Female Health,Career,
+M00155,Talk to Me: Motherhood,To what extent do you feel that there is a lot of pressure on being a mother.,60,1,Talk to Me,Parenting,Relationships,Female Health,Career,
+M00156,Managing: Parenthood,Describe the circumstances in which you are raising your child/children?,120,2,Managing,Parenting,Relationships,Problem Solving,,
+M00156,Managing: Parenthood,Describe your biggest challenges in parenting?,120,1,Managing,Parenting,Relationships,Problem Solving,,
+M00156,Managing: Parenthood,What do you need to be a better parent that you don't currently have?,90,3,Managing,Parenting,Relationships,Problem Solving,,
+M00157,Single Parenting,Describe the situation which has led to you being a single parent.,180,1,(free form name),Parenting,Relationships,Care Team,Female Health,
+M00157,Single Parenting,Describe the benefits you see in being a single parent at this time.,90,2,(free form name),Parenting,Relationships,Care Team,Female Health,
+M00157,Single Parenting,Describe any worries you have about being a single parent as it pertains to your own well-being.,120,4,(free form name),Parenting,Relationships,Care Team,Female Health,
+M00157,Single Parenting,Desrcribe any worries you have about the the effect of being a single parent on your child/children.,120,3,(free form name),Parenting,Relationships,Care Team,Female Health,
+M00158,Reflect On: Motherhood,What would someone who is not a mother be surprised to know about you.,90,1,Reflect on,Parenting,Relationships,Self-esteem,Purpose,Stress
+M00158,Reflect On: Motherhood,Describe your greatest joys of being a mother.,60,3,Reflect on,Parenting,Relationships,Self-esteem,Purpose,Stress
+M00158,Reflect On: Motherhood,Describe your biggest stresses of being a mother.,90,2,Reflect on,Parenting,Relationships,Self-esteem,Purpose,Stress
+M00159,Reflect On: Motherhood Grief,Desribe the loss you have experienced as a result of a miscarriage,120,1,Reflect on,Parenting,Female Health,Care Team,Pain,Grief
+M00159,Reflect On: Motherhood Grief,Explain the stages of grief you have experienced as a result of your loss,180,2,Reflect on,Parenting,Female Health,Care Team,Pain,Grief
+M00159,Reflect On: Motherhood Grief,Desribe the person/support team you turn to most when you are triggered by your loss,120,3,Reflect on,Parenting,Female Health,Care Team,Pain,Grief
+M00160,Social Lives of Mothers,To what extent is the majority of your social life dependent on children right now?,60,1,(free form name),Being Social,Parenting,Female Health,Relationships,
+M00160,Social Lives of Mothers,Describe your friend group at the moment. Are most of them parents? What do you do when you are together.,60,2,(free form name),Being Social,Parenting,Female Health,Relationships,
+M00160,Social Lives of Mothers,Describe a time where you put being a mother before social or friend activities.,180,3,(free form name),Being Social,Parenting,Female Health,Relationships,
+M00161,Talk To Me: Sexual Harrassment,Describe a few ways that a secual harrassment incident has impacted your life and mental health,120,3,Talk to Me,Harrassment,Female Health,Career,Relationships,Confidence
+M00161,Talk To Me: Sexual Harrassment,"Prior to an incident of sexual harrassment, what did you believe sexual harrasment was?",90,2,Talk to Me,Harrassment,Female Health,Career,Relationships,Confidence
+M00161,Talk To Me: Sexual Harrassment,Describe a time when being a woman was a disadvantage.,120,1,Talk to Me,Harrassment,Female Health,Career,Relationships,Confidence
+M00161,Talk To Me: Sexual Harrassment,Describe the support you have received in relation to sexual harrassment.,120,4,Talk to Me,Harrassment,Female Health,Career,Relationships,Confidence
+M00162,Reflect On: Female Equality,To what extent do you feel like sexism and misogyny is an obstacle to your career goals.,120,3,Reflect on,Social Issues,Feeling Safe,Female Health,Ambition,
+M00162,Reflect On: Female Equality,Describe a time you felt taken advantage of due to your gender,120,2,Reflect on,Social Issues,Feeling Safe,Female Health,Ambition,
+M00162,Reflect On: Female Equality,Describe best case scenario for Equality. What does that look like?,90,1,Reflect on,Social Issues,Feeling Safe,Female Health,Ambition,
+M00163,Living With: Being a single woman,To what extent do you feel pressured to get into a relationship.,120,3,Living with,Relationships,Female Health,Family,,
+M00163,Living With: Being a single woman,Describe what living life as a single woman looks like.,90,2,Living with,Relationships,Female Health,Family,,
+M00163,Living With: Being a single woman,Describe your social network or community.,90,1,Living with,Relationships,Female Health,Family,,
+M00164,Talk To Me: Career Woman,Explain your career stressors.,90,2,Talk to Me,Career,Female Health,Ambition,Decision Making,
+M00164,Talk To Me: Career Woman,Describe how important a career is to you and what priority it plays in your life.,120,3,Talk to Me,Career,Female Health,Ambition,Decision Making,
+M00164,Talk To Me: Career Woman,Describe how your career affects your mental well being.,90,1,Talk to Me,Career,Female Health,Ambition,Decision Making,
+M00164,Talk To Me: Career Woman,To what extent do you think you are given the same career opportunities as male counterparts?,90,4,Talk to Me,Career,Female Health,Ambition,Decision Making,
+M00165,Talk To Me: Fair Pay,To what extent do you think you are being paid fairly for the work you do?,30,2,Talk to Me,Career,Female Health,Social Issues,,
+M00165,Talk To Me: Fair Pay,Describe a situation where being a woman is an advantage for the work you do.,90,3,Talk to Me,Career,Female Health,Social Issues,,
+M00165,Talk To Me: Fair Pay,To what extent do you feel like career success comes at the expense of being a mother.,90,1,Talk to Me,Career,Female Health,Social Issues,,
+M00166,Talk to Me: Anger/Rage,Describe what makes you angry.,90,2,Talk to Me,Anger,Mood,Feelings,Thoughts,Relationships
+M00166,Talk to Me: Anger/Rage,Describe how you express your feelings of anger.,90,3,Talk to Me,Anger,Mood,Feelings,Thoughts,Relationships
+M00166,Talk to Me: Anger/Rage,To what extent is anger negative affecting your life?,60,1,Talk to Me,Anger,Mood,Feelings,Thoughts,Relationships
+M00166,Talk to Me: Anger/Rage,What positives do you feel can come from non-destructive anger,90,4,Talk to Me,Anger,Mood,Feelings,Thoughts,Relationships
+M00167,Living With: Anger,Does your anger turn to rage?,30,2,Living with,Anger,Relationships,Fear,Feelings,Stress
+M00167,Living With: Anger,Does your anger turn to violence?,30,3,Living with,Anger,Relationships,Fear,Feelings,Stress
+M00167,Living With: Anger,"Prior to an anger outrage, is there a moment you pause before or do you black out? Explain",120,5,Living with,Anger,Relationships,Fear,Feelings,Stress
+M00167,Living With: Anger,Are there steps you could do to prevent anger rages that you are not taking? What could they be?,90,4,Living with,Anger,Relationships,Fear,Feelings,Stress
+M00167,Living With: Anger,Describe the emotions after you experience intense anger emotions?,120,1,Living with,Anger,Relationships,Fear,Feelings,Stress
+M00168,Talk To Me: Struggle,Describe a time when you've struggled.,120,1,Talk to Me,Problem Solving,Relationships,Decision Making,Compassion,
+M00168,Talk To Me: Struggle,Describe your reaction to a recent struggle.,90,3,Talk to Me,Problem Solving,Relationships,Decision Making,Compassion,
+M00168,Talk To Me: Struggle,Describe how the experience of struggling impacts your mental health.,60,2,Talk to Me,Problem Solving,Relationships,Decision Making,Compassion,
+M00169,Living With: Struggle,When did you begin to feel like life was a struggle? Can you recall a specific age?,120,1,Living with,Problem Solving,Aging,Care Team,Feeling Safe,
+M00169,Living With: Struggle,Can you share your feelings about struggling with anyone?,90,3,Living with,Problem Solving,Aging,Care Team,Feeling Safe,
+M00169,Living With: Struggle,What are 2 tools you use to help ease the emotional pain of struggling,90,2,Living with,Problem Solving,Aging,Care Team,Feeling Safe,
+M00170,Talk to Me: Failure,Describe a time where you feel you've failed at something.,90,3,Talk to Me,Failure,Self-esteem,Confidence,-,-
+M00170,Talk to Me: Failure,What has your reaction to failure historically been?,90,2,Talk to Me,Failure,Self-esteem,Confidence,-,-
+M00170,Talk to Me: Failure,To what extent do you feel like a failure?,60,1,Talk to Me,Failure,Self-esteem,Confidence,-,-
+M00171,Talk to Me: Crying,What prompts you to cry?,30,1,Talk to Me,Mood,Feelings,Self-love,Self-care,-
+M00171,Talk to Me: Crying,What does crying look like for you?,60,2,Talk to Me,Mood,Feelings,Self-love,Self-care,-
+M00171,Talk to Me: Crying,Who do you cry with?,30,3,Talk to Me,Mood,Feelings,Self-love,Self-care,-
+M00171,Talk to Me: Crying,What makes you feel better in the aftermath of crying?,60,4,Talk to Me,Mood,Feelings,Self-love,Self-care,
+M00172,Talk to Me: Obstacles,What obstacles do you face on a daily basis?,90,2,Talk to Me,Problem Solving,Failure,Being Content,-,-
+M00172,Talk to Me: Obstacles,How do obstacles affect your day-to-day activity?,90,3,Talk to Me,Problem Solving,Failure,Being Content,-,-
+M00172,Talk to Me: Obstacles,Describe what you've learned from an obstacle or from overcoming an obstacle.,120,1,Talk to Me,Problem Solving,Failure,Being Content,,
+M00173,Talk to Me: Trauma,Do you know what Trauma is? (this is a signalling question),90,2,Talk to Me,Trauma,Mood,Self-love,Physiology,Pain
+M00173,Talk to Me: Trauma,To what extent are you living with trauma,60,1,Talk to Me,Trauma,Mood,Self-love,Physiology,Pain
+M00173,Talk to Me: Trauma,What don't people understand about living with trauma,120,3,Talk to Me,Trauma,Mood,Self-love,Physiology,Pain
+M00174,Living With: Trauma,To what extent is the response to your trauma a physical response?,90,1,Living with,Trauma,Mood,Physiology,Self-love,
+M00174,Living With: Trauma,To what extent is the response to your trauma a mental response?,90,3,Living with,Trauma,Mood,Physiology,Self-love,
+M00174,Living With: Trauma,To what extent is the response to your trauma an emotional response?,90,2,Living with,Trauma,Mood,Physiology,Self-love,
+M00175,Reflect on: Trauma,Describe how you feel trauma is affecting your behavior.,60,1,Reflect on,Trauma,Mood,Spirituality,Self-love,
+M00175,Reflect on: Trauma,Describe how you feel trauma is affecting your spiritual life.,60,2,Reflect on,Trauma,Mood,Spirituality,Self-love,
+M00175,Reflect on: Trauma,Describe how living with trauma affects your mental health. Why do you think this?,180,3,Reflect on,Trauma,Mood,Spirituality,Self-love,
+M00176,Talk to Me: Racism,Describe a time that you felt you were discriminated against.,180,3,Talk to Me,Social Issues,Self-love,Self-esteem,Empathy,Trauma
+M00176,Talk to Me: Racism,How has racism or discrimination effected your life?,120,1,Talk to Me,Social Issues,Self-love,Self-esteem,Empathy,Trauma
+M00176,Talk to Me: Racism,Who is in your support system. Explain what a support system looks like.,90,2,Talk to Me,Social Issues,Self-love,Self-esteem,Empathy,Trauma
+M00177,Living With: Discrimination,Describe how discrimination has impacted the quality of your life,90,1,Living with,Social Issues,Self-esteem,Stress,,
+M00177,Living With: Discrimination,Explain how racism has prevented you from achieving any goals.,90,2,Living with,Social Issues,Self-esteem,Stress,,
+M00177,Living With: Discrimination,Are you not getting what you think you need. Explain what that would be.,120,3,Living with,Social Issues,Self-esteem,Stress,,
+M00178,Talk to Me: Medication,Describe the medications you are currently taking.,30,1,Talk to Me,Medication,Routine,Healthcare,,
+M00178,Talk to Me: Medication,Describe how long you've been on medication.,30,2,Talk to Me,Medication,Routine,Healthcare,,
+M00178,Talk to Me: Medication,To what extent do you think adhering to your medication is difficult.,60,3,Talk to Me,Medication,Routine,Healthcare,,
+M00178,Talk to Me: Medication,Describe any side effects as a result of your prescription.,60,4,Talk to Me,Medication,Routine,Healthcare,,
+M00179,Living With: Medication,To what extent do you require assistance in taking your medication.,60,2,Living with,Medication,Routine,Care Team,Healthcare,
+M00179,Living With: Medication,To what extent are you able to afford your medication. Have you ever had to go without?,90,3,Living with,Medication,Routine,Care Team,Healthcare,
+M00179,Living With: Medication,Describe what your life is like without medication.,120,1,Living with,Medication,Routine,Care Team,Healthcare,
+M00180,What else are you taking?,Describe your experience with traditional or holistic medicines.,120,4,(free form name),Medication,Care Team,Feeling Safe,,
+M00180,What else are you taking?,Describe your experience with psychadelics,120,3,(free form name),Medication,Care Team,Feeling Safe,,
+M00180,What else are you taking?,To what extent does your health care team know what holistic or oral medicines you're taking?,90,2,(free form name),Medication,Care Team,Feeling Safe,,
+M00180,What else are you taking?,To what extent are you nervous about telling your care team about your natural remedies,90,1,(free form name),Medication,Care Team,Feeling Safe,,
+M00181,Talk to Me: Natural Disasters,To what extent do you worry about natural disasters affecting your life?,60,2,Talk to Me,Environment,Routine,Career,Family,
+M00181,Talk to Me: Natural Disasters,Describe any natural disasters you have experienced first hand.,120,1,Talk to Me,Environment,Routine,Career,Family,
+M00181,Talk to Me: Natural Disasters,To what extent are you prepared for natural disasters?,60,3,Talk to Me,Environment,Routine,Career,Family,
+M00182,Living with: Climate Change,To what extent do you worry about climate change?,60,4,Living with,Environment,Physical Space,Empathy,,
+M00182,Living with: Climate Change,Who or what do you worry about the most when you think about the effects of climate change.,60,3,Living with,Environment,Physical Space,Empathy,,
+M00182,Living with: Climate Change,Describe your reaction to those who think climate change is a hoax.,120,1,Living with,Environment,Physical Space,Empathy,,
+M00182,Living with: Climate Change,To what extent do you think climate change is a threat to the planet.,120,2,Living with,Environment,Physical Space,Empathy,,
+M00183,Think Global,Describe some things you and your immediate family do in response to climate change.,90,3,(free form name),Environment,Family,Empathy,Fear,
+M00183,Think Global,To what extent do you live in a community that is responding well to climate change?,60,2,(free form name),Environment,Family,Empathy,Fear,
+M00183,Think Global,Are you an active member of climate change initiatives in your community? Describe.,60,1,(free form name),Environment,Family,Empathy,Fear,
+M00183,Think Global,What could you be doing that you currently aren't in resonse to climate change.,90,4,(free form name),Environment,Family,Empathy,Fear,
+M00184,Talk to Me: Politics,Describe the place politics has in your life.,90,1,Talk to Me,Being Social,Media Consumption,Mood,Relationships,
+M00184,Talk to Me: Politics,To what extent would you describe yourself was a political person.,90,2,Talk to Me,Being Social,Media Consumption,Mood,Relationships,-
+M00184,Talk to Me: Politics,Describe what place political beliefs have in your day to day activities.,60,3,Talk to Me,Being Social,Media Consumption,Mood,Relationships,
+M00185,Reflect On: Politics,To what extent are you able to see the viewpoint of those who have different politics than you,120,2,Reflect on,Being Social,Media Consumption,Mood,,
+M00185,Reflect On: Politics,"Describe the effect that politics has on your mental health,",90,1,Reflect on,Being Social,Media Consumption,Mood,,
+M00185,Reflect On: Politics,What are some of the ways your political perspective makes the world a better place.,90,3,Reflect on,Being Social,Media Consumption,Mood,,
+M00185,Reflect On: Politics,To what extent do you wish you were not so politically engaged.,60,4,Reflect on,Being Social,Media Consumption,Mood,,
+M00186,What's your Story?,Describe a time when you've been someone's savior.,180,4,(free form name),Self-love,Problem Solving,Confidence,Self-esteem,-
+M00186,What's your Story?,Describe a time when you've felt powerful.,180,3,(free form name),Self-love,Problem Solving,Confidence,Self-esteem,-
+M00186,What's your Story?,Describe a time when you've felt like the victim.,180,2,(free form name),Self-love,Problem Solving,Confidence,Self-esteem,-
+M00186,What's your Story?,Describe a time when you've felt pursued.,180,1,(free form name),Self-love,Problem Solving,Confidence,Self-esteem,-
+M00187,What's your Story?,Describe a time when you've felt like a visionary.,180,1,(free form name),Self-love,Problem Solving,-,-,-
+M00187,What's your Story?,Describe a time when you've felt like a facilitator.,180,2,(free form name),Self-love,Problem Solving,-,-,-
+M00187,What's your Story?,Describe a time when you've felt like a villain.,180,3,(free form name),Self-love,Problem Solving,-,-,-
+M00188,Talk to Me: Medical History,Describe your history with medical surgeries,180,1,Talk to Me,Healthcare,Care Team,Physiology,Medication,Pain
+M00188,Talk to Me: Medical History,Describe your history with receiveing medical diagnosis.,180,4,Talk to Me,Healthcare,Care Team,Physiology,Medication,Pain
+M00188,Talk to Me: Medical History,Describe your experience with prolonged medical treatment.,90,2,Talk to Me,Healthcare,Care Team,Physiology,Medication,Pain
+M00188,Talk to Me: Medical History,Describe your experience with side effects due to a medical treatment.,90,3,Talk to Me,Healthcare,Care Team,Physiology,Medication,Pain
+M00189,Talk to Me: Medical History,"Describe any complications you've had with surgery, medical treatment, or medications.",90,1,Talk to Me,Healthcare,Physiology,-,-,-
+M00189,Talk to Me: Medical History,Describe your experience with aftercare or recovery from surgery.,120,2,Talk to Me,Healthcare,Physiology,,,
+M00189,Talk to Me: Medical History,Describe your experience with rehabilitation from surgery or injury.,120,3,Talk to Me,Healthcare,Physiology,,,
+M00190,Reflect On: Medical Trust,To what extent do you trust your health care provider and doctor?,60,4,Reflect on,Healthcare,Care Team,Medication,Confidence,Self-esteem
+M00190,Reflect On: Medical Trust,Is there something you want to tell your doctor that you haven't? Describe that.,90,5,Reflect on,Healthcare,Care Team,Medication,Confidence,Self-esteem
+M00190,Reflect On: Medical Trust,What barriers exist to you telling your doctor the whole truth?,90,6,Reflect on,Healthcare,Care Team,Medication,Confidence,Self-esteem
+M00190,Reflect On: Medical Trust,Describe a time where you withheld information from your health care team.,120,1,Reflect on,Healthcare,Care Team,Medication,Confidence,Self-esteem
+M00190,Reflect On: Medical Trust,To what extent do you trust your health care team to give you the right directions.,120,3,Reflect on,Healthcare,Care Team,Medication,Confidence,Self-esteem
+M00190,Reflect On: Medical Trust,What are some areas you aren't comfortable discussing with your health care team.,180,2,Reflect on,Healthcare,Care Team,Medication,Confidence,Self-esteem
+M00191,iatrophobia,To what extent are you comfortable in hospitals or medical offices.,120,1,(free form name),Healthcare,Physical Space,,,
+M00191,iatrophobia,Describe and fears you have as it relates to hospitals or doctors.,180,2,(free form name),Healthcare,Physical Space,,,
+M00192,Heath Care,To what extent do you feel like your doctor(s) are answering your questions?,120,1,(free form name),Healthcare,Care Team,,,
+M00192,Heath Care,To what extent do you feel like your doctor(s) are providing you the right resources?,90,2,(free form name),Healthcare,Care Team,,,
+M00192,Heath Care,Describe a time you were disatisfied with the care you were receiving.,180,4,(free form name),Healthcare,Care Team,,,
+M00192,Heath Care,Describe a time you were satisfied with the care you were receiving.,180,3,(free form name),Healthcare,Care Team,,,
+M00193,Project: Health Questions,Write down a list of questions you have for your care team. Which ones could you perhaps answer on your own and which do you need to ask next time you have the chance?,600,1,Project,Healthcare,Female Health,Male Health,Self-care,
+M00194,Talk to Me: Men's Health,"In the past 3 years, have you visited a proctologist or urologist?",60,2,Talk to Me,Male Health,Aging,Self-care,,
+M00194,Talk to Me: Men's Health,Is there a history of any men's heathcare diagnoses that run in your family?,60,3,Talk to Me,Male Health,Aging,Self-care,,
+M00194,Talk to Me: Men's Health,Describe your relationship with your doctor.,60,1,Talk to Me,Male Health,Aging,Self-care,,
+M00195,Talk to Me: Cardiac Health,Describe your personal history with heart health.,90,1,Talk to Me,Physiology,Pain,Aging,Activity,Exercise
+M00195,Talk to Me: Cardiac Health,Describe your family history with heart health. Is there a history of heart disease in your family?,120,2,Talk to Me,Physiology,Pain,Aging,Activity,Exercise
+M00195,Talk to Me: Cardiac Health,To what extent do you know the current state of your heart health?,60,3,Talk to Me,Physiology,Pain,Aging,Activity,Exercise
+M00196,Talk to Me: Male Contraception,Is contraception something that you and your partner discussed together? Explain,90,2,Talk to Me,Fertility,Male Health,Sex,Feeling Safe,Love
+M00196,Talk to Me: Male Contraception,What are the types of contracteption you prefer?,60,1,Talk to Me,Fertility,Male Health,Sex,Feeling Safe,Love
+M00196,Talk to Me: Male Contraception,Describe any side-effects of contraception.,90,3,Talk to Me,Fertility,Male Health,Sex,Feeling Safe,Love
+M00197,Getting Pregnant,To what extent was getting pregnant an easy process for you and your partner?,90,1,(free form name),Fertility,Male Health,Love,,
+M00197,Getting Pregnant,Describe any experience you've had with fertility clinics or fertility doctors.,120,3,(free form name),Fertility,Male Health,Love,,
+M00197,Getting Pregnant,Describe any experience you've had with fertility medication or procedures.,120,4,(free form name),Fertility,Male Health,Love,,
+M00197,Getting Pregnant,Describe any experience you've had with fertility trackers.,90,2,(free form name),Fertility,Male Health,Love,,
+M00198,Being Pregnant,Describe the support system you have or had during pregnancy,120,2,(free form name),Fertility,Care Team,Family,Relationships,
+M00198,Being Pregnant,Describe any complications you may have experienced during pregnancy,90,4,(free form name),Fertility,Care Team,Family,Relationships,
+M00198,Being Pregnant,Describe your feelings and mood throughout your pregnancy?,90,3,(free form name),Fertility,Care Team,Family,Relationships,
+M00198,Being Pregnant,To what extent did you love being pregnant?,60,1,(free form name),Fertility,Care Team,Family,Relationships,
+M00199,Reflect On: Being a Father,To what extent is being a father the most important part of your identity.,,,Reflect on,Parenting,Male Health,Identity,Career,
+M00199,Reflect On: Being a Father,To what extent do you worry that being a father will affect your career goals?,,1,Reflect on,Parenting,Male Health,Identity,Career,
+M00199,Reflect On: Being a Father,To what extent do you feel that there is a lot of pressure on being a father.,,,Reflect on,Parenting,Male Health,Identity,Career,
+M00199,Reflect On: Being a Father,To what extent do you feel that you are bound by traditional expectations of what it means to be a father,,,Reflect on,Parenting,Male Health,Identity,Career,
+M00201,Managing: Parenthood,Describe the circumstances in which you are raising your child/children?,,,Managing,Parenting,Male Health,Problem Solving,Relationships,
+M00201,Managing: Parenthood,Describe your biggest challenges in parenting?,,,Managing,Parenting,Male Health,Problem Solving,Relationships,
+M00201,Managing: Parenthood,What do you need to be a better parent that you don't currently have?,,,Managing,Parenting,Male Health,Problem Solving,Relationships,
+M00202,Single Parenting,Describe the situation which has led to you being a single parent.,,,(free form name),Parenting,Male Health,Self-care,Relationships,
+M00202,Single Parenting,Describe the benefits you see in being a single parent at this time.,,,(free form name),Parenting,Male Health,Self-care,Relationships,
+M00202,Single Parenting,Describe any worries you have about being a single parent as it pertains to your own well-being.,,,(free form name),Parenting,Male Health,Self-care,Relationships,
+M00202,Single Parenting,Desrcribe any worries you have about the the effect of being a single parent on your child/children.,,,(free form name),Parenting,Male Health,Self-care,Relationships,
+M00203,Reflect On: Fatherhood,What would someone who is not a father be surprised to know about you.,,,Reflect on,Parenting,Male Health,Identity,,
+M00203,Reflect On: Fatherhood,Describe your greatest joys of being a father.,,,Reflect on,Parenting,Male Health,Identity,,
+M00203,Reflect On: Fatherhood,Describe your biggest stresses of being a father.,,,Reflect on,Parenting,Male Health,Identity,,
+M00204,Social Lives of Fathers,To what extent is the majority of your social life dependent on children right now?,,,Living with,Being Social,Male Health,Identity,Relationships,
+M00204,Social Lives of Fathers,Describe your friend group at the moment. Are most of them parents? What do you do when you are together.,,,Living with,Being Social,Male Health,Identity,Relationships,
+M00204,Social Lives of Fathers,Describe a time where you put being a father before social or friend activities.,,,Living with,Being Social,Male Health,Identity,Relationships,
+M00205,Happy Moments,Describe three of your happiest moments. What makes them happy for you?,180,1,Explore,Happiness,Mood,Self-love,Love,-
+M00206,Future Happy,Describe the happiest possible future version of yourself. In one year. In five years.,180,1,Explore,Aging,Self-esteem,Dreams,Ambition,-
+M00207,Being Me,What personality traits do you love most about yourself?,180,1,Explore,Self-love,Physiology,Identity,-,-
+M00208,Reputation,"When you're not around, what do you hope people are saying about you?",180,1,Explore,Self-esteem,Anxiety,Confidence,Feelings,Thoughts
+M00209,Connection Counts,What bothers you about other people? Describe the opposite of that behavior.,180,1,Explore,Problem Solving,Compassion,Empathy,-,-
+M00210,Developing Myself,Can you identify any of your own bothersome behaviours? Describe the opposite of those behaviors.,180,1,Explore,Problem Solving,Compassion,Empathy,-,-
+M00211,"ToMe, ForMe",Describe an experience that happened TO you. Now describe it again as though it happened FOR you.,180,1,Explore,Self-care,Self-love,Self-esteem,Confidence,Identity
+M00212,Feeling Proud,Describe a decision you've made that makes you proud. Why does it make you proud?,180,1,Explore,Confidence,Feelings,Mindfulness,Identity,-
+M00213,Regrets,Describe a decision you've made that you're not proud. What are your feelings surrounding that decision?,180,1,Explore,Decision Making,Fear,Feelings,Identity,-
+M00214,Settling for It,What does ‘settling’ mean to you? Describe any areas in your life where you feel like you are settling.,180,1,Explore,Being Content,Thoughts,Mindfulness,-,-
+M00215,I'm a Superhero!,Describe the qualities you possess that can help you overcome any obstacles.,180,1,Explore,Confidence,Ambition,Purpose,Identity,-
+M00216,My Kryptonite,Describe all the obstacles that you think are preventing you from achieving your dreams.,180,1,Explore,Self-esteem,Fear,Ambition,Identity,-
+M00217,Dream Big,Describe your dream for a better future. What problems do you want to solve and who do you want to help?,180,1,Explore,Problem Solving,Relationships,Dreams,-,-
+M00218,I'm a Problem Solver,"Describe what you believe are the biggest problems in the world today. From small steps to longer term action, what can you do to address these problems?",180,1,Explore,Problem Solving,Creativity,Empathy,Mindfulness,-
+M00219,I'm a Gift,What gifts do you possess that can help make the world a better place?,180,1,Explore,Self-esteem,Ambition,-,-,-
+M00220,Stand-up!,What do you stand for and what do you stand against? Describe how this affects your day-to-day activity.,180,1,Explore,Identity,Routine,Self-esteem,Self-love,-
+M00221,Will Anyone Remember Me?,Do you want to leave a legacy? Describe what legacy means to you and how you’d like to be remembered.,180,1,Explore,Aging,Identity,-,-,-
+M00222,Tomorrow is Going to be Great!,Imagine the positive future and every one of your goals for the world coming true. Talk about the impact that will have on the world once it has come to be.,180,1,Explore,Problem Solving,Identity,Relationships,Passion,Ambition
+M00223,Finding Happy,How would you describe a problem with your life that makes you angry? Now how would you describe the opposite of this problem?,180,1,Explore,Problem Solving,Anxiety,Fear,Pain,-
+M00224,Community Challenges,How would you describe a problem with your community that makes you angry? Now how would you describe the opposite of this problem?,180,1,Explore,Problem Solving,Anxiety,Relationships,Fear,Pain
+M00225,Connection Counts,How would you describe a problem with your family that makes you angry? Now how would you describe the opposite of this problem?,180,1,Explore,Problem Solving,Family,Relationships,Pain,Anxiety
+M00226,Positive Me,How would you describe a problem with the world that makes you angry? Now how would you describe the opposite of this problem?,180,1,Explore,Problem Solving,Pain,Anxiety,-,-
+M00227,Feeling Proud,"Other than your needs being met, what do you need to make you feel fulfilled?",180,1,Explore,Being Content,Being Social,Mood,Physiology,Activity
+M00228,Talk to Me: Heros,What makes a hero or role model? Describe a hero or role model and explain what it is you admire about them.,180,1,Explore,Identity,Purpose,Confidence,Happiness,-
+M00229,Being Me,Do you believe you have the qualities of a hero or role model? Describe those qualities.,180,1,Explore,Self-esteem,Self-love,Confidence,Mindfulness,-
+M00230,Keep Learning,Imagine you can now communicate with the 8 year old you. What would you tell them? What would make them happy about who they've become? What would make them sad?,180,1,Explore,Problem Solving,Aging,Mindfulness,-,-
+M00231,Exploring: Energy,Describe the activities that give you the most energy.,180,1,Explore,Activity,Mood,Physiology,-,-
+M00232,Getting Energy from Others,Describe the people that give you the most energy.,180,1,Explore,Relationships,Mood,-,-,-
+M00233,Happy Moments,Describe the topics that thinking about or discussing give you the most energy.,180,1,Explore,Happiness,Mood,Physiology,-,-
+M00234,Seeking Purpose,Describe some situations where you wish you could be doing more to help.,180,1,Explore,Purpose,Mindfulness,Ambition,-,-
+M00235,Living with Purpose,Describe a situation where you did more than you thought possible to help someone.,180,1,Explore,Purpose,Relationships,Self-esteem,Passion,Mindfulness
+M00236,Talk to Me: Work,"If you had to quit your current job and begin a new career path, which career would you choose?",180,1,Explore,Career,Ambition,Confidence,-,-
+M00237,Talk to Me: Decision Making,What choices have you recently made that you are happy with?,180,1,Explore,Decision Making,Happiness,Being Content,-,-
+M00238,Feeling Regret,What choices have you recently made that you are not happy with?,180,1,Explore,Decision Making,Being Content,-,-,-
+M00239,Talk to Me: Social Anxiety,"Assuming stagefright was not an issue, If you had to give a speech on any topic to a large group, what topic would you feel most comfortable discussing.",180,1,Explore,Confidence,Ambition,Fear,-,-
+M00240,Feeling Appreicated,How often do people thank you? Describe as many situations as you can where someone thanked you for something.,180,1,Explore,Being Grateful,Mood,Physiology,-,-
+M00241,Being Grateful,How often do you thank people? Describe as many situations as you can where you thanked someone for something (and truly meant it).,180,1,Explore,Being Grateful,Mood,Physiology,-,-
+M00242,"Learning to Say ""Thank you""",How often do people compliment you? Describe as many situations as you can where someone complimented you on something.,180,1,Explore,Self-esteem,Identity,Relationships,-,-
+M00243,Complimenting Others,How often do you compliment people? Describe as many situations as you can where you complimented someone on something (and truly meant it).,180,1,Explore,Self-esteem,Identity,Relationships,-,-
+M00244,Talk to Me: Self-Esteem,What do you think you can teach others?,180,1,Explore,Self-esteem,Creativity,Identity,-,-
+M00245,Future Me: Family,Where do you imagine yourself in ten years in terms of family?,180,1,Explore,Family,Relationships,Male Health,Female Health,-
+M00246,Future Me: Career,Where do you imagine your career in ten years?,180,1,Explore,Career,Purpose,Identity,-,-
+M00247,Future Me: Home,Describe what your living space looks like in ten years from now?,180,1,Explore,Physical Space,Aging,Creativity,-,-
+M00248,Apples and Trees,To what extent will your life be different than your parents/primary caregivers?,180,1,Explore,Relationships,Family,-,-,-

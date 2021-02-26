@@ -1,0 +1,115 @@
+Reference Number,Question,Yes/No or Scale,Name of Assessment (moment) that this cues?,Is this a preset recurring question to ask?,recurrance condition,recurring timeframe
+1,"In the past two weeks, have you felt nervous or on edge?",yes/no,Anxiety (Nervousness),yes,,every two weeks
+2,"In the past two weeks, have you felt irritable or easily annoyed?",yes/no,Anxiety (Irritability),yes,,every two weeks
+3,Have you been feeling hopeless?,yes/no,Depression (Check-in),no,,N/A
+4,Have you felt sad in the past two weeks?,yes/no,Depression (Check-in),yes,,every two weeks
+5,"Have you felt a lingering sadness that has lasted more than a few days?
+",yes/no,Depression (Check-in),,,
+6,"Do you find it harder to enjoy the things you used to enjoy?
+",yes/no,Depression (Check-in),,,
+7,"Are you finding it hard to stay positive lately? 
+",yes/no,Depression (Check-in),,,
+8,Do you feel optimistic about your future?,yes/no,Depression (Motivation),no,,N/A
+9,Do you find it harder to enjoy the things you used to enjoy?,yes/no,Mood (Check-In),no,,N/A
+10,"Is today’s mood different from how you feel on an average day?
+",yes/no,Mood (Check-In),yes,,daily
+19,"In the past two weeks, have you experienced sadness?",yes/no,Mood (Check-In),yes,,every two weeks
+20,"In the past two weeks, have you experienced happiness?",yes/no,Mood (Check-In),yes,,every two weeks
+21,Are you in a good mood today?,scale,Mood (Check-In),yes,,daily
+22,Are you in a bad mood today?,scale,Mood (Check-In),yes,,daily
+29,Do you feel engaged at work?,yes/no,Career (Motivation),no,,N/A
+30,Does your work affect your mood negatively?,scale,Career (Mood),no,,N/A
+31,Would you change careers if you could?,yes/no,Career (Check-In),no,,N/A
+32,Does your career give you a sense of accomplishment?,scale,Career (Fulfilment),no,,N/A
+33,Do you feel sufficiently recognized for the work you do?,yes/no,Career (Wholeness),no,,N/A
+34,Are you motivated by your current career path?,yes/no,Career (Motivation),no,,N/A
+35,Do you look forward to your retirement?,yes/no,Career (Retirement),no,,N/A
+36,Do you have an emotional support system?,yes/no,Depression (Support Systems),yes,,other
+44,Do you connect with people easily?,yes/no,Relationships (Attachment),no,,N/A
+45,Do you have people who you consider confidants?,yes/no,Relationships (Attachment),yes,,other
+46,Do you currently have a partner?,yes/no,Relationship (Partner),yes,,other
+47,Do you feel like you are a good partner?,scale,Relationship (Partner),yes,,other
+48,Are you a parent?,yes/no,Relationship (Family),no,,N/A
+49,Are the people who raised you still alive (e.g. your parents or guardians)?,yes/no,Relationship (Family of Origin),no,,N/A
+50,"Are you close with your immediate family members (e.g. parents, guardians, siblings)?",scale,Relationship (Family of Origin),no,,N/A
+51,Are you a good friend?,scale,Relationship (Friend),no,,N/A
+52,Would people describe you as a good friend?,yes/no,Relationship (Friend),no,,N/A
+53,Are there people or places that make you feel unsafe?,yes/no,Relationships (Environment),no,,N/A
+54,Do you feel you eat a diet healthy diet?,scale,Diet (Check-In),no,,N/A
+55,In the past two weeks have you eaten a healthy diet?,yes/no,Diet (Check-In),yes,,every two weeks
+56,Do you have access to healthy foods?,yes/no,Diet (Environment),no,,N/A
+57,Are you able to cook for yourself?,yes/no,Diet (Caregiving),no,,N/A
+58,Do you notice that food affects your mood or happiness?,scale,Diet (Mood),no,,N/A
+59,Do you have access to fresh fruits and vegetables? ,yes/no,Diet (Environment),no,,N/A
+60,In the past two weeks have you visited an emergency room?,yes/no,Physical (Environment),yes,,every two weeks
+65,"Do you experience chronic pain?
+",scale,Pain (Check-In),yes,,other
+66,In the past two weeks have you had a new symptom that you cannot explain?,yes/no,Pain (Check-In),yes,,every two weeks
+67,Does chronic pain affect your day-to-day activities?,yes/no,Pain (Activity),yes,,other
+68,Do you suspect that you have food allergies?,yes/no,Allergies (Check-In),no,,N/A
+69,Do you have seasonal allergies?,yes/no,Allergies (Check-In),no,,N/A
+70,Do allergies affect your day-to-day life?,scale,Allergies (Activitiy),no,,N/A
+71,Do you feel stress due to allergies?,yes/no,Allergies (Mental),no,,N/A
+72,In the past two weeks have you had an allergic reaction?,yes/no,Allergies (Check-In),yes,,every two weeks
+73,In the past two weeks have you been sleeping through the night?,yes/no,Sleep (Check-in),yes,,every two weeks
+74,Do you have a sleep partner?,yes/no,Sleep (Environment),no,,N/A
+75,"In the past two weeks, have you disrupted someone else's sleep?",yes/no,Sleep (Relationships),yes,,every two weeks
+76,"In the past two weeks, have you had disrupted sleep?",yes/no,Sleep (Check-In),yes,,every two weeks
+77,Is sleep important to you?,yes/no,Sleep (Check-In),no,,N/A
+78,Are there certain routines or things you do to fall asleep?,yes/no,Sleep (Environment),no,,N/A
+79,Do you use a sleep tracker?,yes/no,Sleep (?)*,no,,N/A
+80,"In the past two weeks, have you had bad dreams or nightmares?",yes/no,Sleep (Dreams)*,yes,,every two weeks
+81,Do you have questions or concerns about your sexual health?,yes/no,Sexual Health (Check-In),no,,N/A
+82,Have you sought support specifically for your sexual or reproductive health?,yes/no,Sexual Health (Check-In),no,,N/A
+83,Do you have questions about your sexuality?,yes/no,Sexual Health (Check-In),no,,N/A
+84,Do you consider dieting the only way to manage your weight?,yes/no,Diet (Weight),no,,N/A
+85,Do you frequently try new diets?,yes/no,Diet (Activity),yes,,other
+86,Do you often find yourself afraid?,scale,Fear (Check-In),no,,N/A
+87,Do you fear the unknown?,scale,Fear (Check-In),no,,N/A
+92,Do you find yourself constantly comparing your body to others?,yes/no,Anxiety (Self Esteem),yes,,other
+93,Do you have a negative self image?,yes/no,Anxiety (Self Image),yes,,other
+94,Do you have a positive self image?,yes/no,Anxiety (Self Image),yes,,other
+95,In the past two weeks have you had a positive outlook on life?,yes/no,Mood (Confidence)*,yes,,every two weeks
+96,Do you consider yourself a creative person?,scale,Self Image (Creativity),no,,N/A
+97,Is there a history of substance abuse and addiction in your family?,yes/no,Addiction (Family),no,,N/A
+98,Do you have a history of substance abuse?,yes/no,Addiction (Check-In),no,,N/A
+99,"In the last two weeks, have you used drugs?",yes/no,Consumption (Check-In)*,yes,,every two weeks
+100,Do you workout to achieve a certain body type?,yes/no,Self Image (Activity),no,,N/A
+101,Are there parts of your body you love?,yes/no,Self Image (Confidence),yes,,other
+102,Are there parts of your body you hate?,yes/no,Self Image (Confidence),yes,,other
+103,In the past two weeks have you self-medicated?,yes/no,Consumption (Medication),yes,,every two weeks
+104,Do you regularly use painkillers to manage your pain?,yes/no,Consumption (Medication),no,,N/A
+105,Do you have a disability or mobility issue?,yes/no,Disability (Check-In),no,,N/A
+106,In the past two weeks have you felt excluded from activities or communities because of a disability?,yes/no,Disability (Activity),yes,,every two weeks
+107,In the past two weeks have you encountered a situation that didn't account for your disability?,yes/no,Disability (Environment),yes,,every two weeks
+108,Are there places you cannot go due to accessibility issues?,yes/no,Disability (Environment),no,,N/A
+109,Do people treat you differently because of your disability?,yes/no,Disability (Relationships),no,,N/A
+110,Do you track your diet with an app?,yes/no,Diet (Technology)*,no,,N/A
+111,Do you use an activity tracker?,yes/no,Physical (Technology)*,no,,N/A
+112,In the past two weeks have you accessed your doctor's patient portal?,yes/no,Physical (Check-In)*,yes,,every two weeks
+113,Do you work out regularly?,yes/no,Physical (Activity),no,,N/A
+114,In the past two weeks have you seen you primary care physician?,yes/no,Physical (Medical),yes,,every two weeks
+115,In the past two weeks have you seen a specialist?,yes/no,Physical (Medical),yes,,every two weeks
+116,Did you dream last night?,yes/no,Dream (Wake-up),yes,,daily
+117,Have you ever tried to plan your dreams for the night?,yes/no,Dream (Before Sleep),no,,N/A
+118,,,,,,
+119,,,,,,
+120,,,,,,
+121,,,,,,
+122,,,,,,
+123,,,,,,
+124,,,,,,
+125,,,,,,
+126,,,,,,
+127,,,,,,
+128,,,,,,
+129,,,,,,
+130,,,,,,
+131,,,,,,
+132,,,,,,
+133,,,,,,
+134,,,,,,
+135,,,,,,
+136,,,,,,
+137,,,,,,
+138,,,,,,

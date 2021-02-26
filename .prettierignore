@@ -1,0 +1,4 @@
+**/node_modules
+dist
+.heroku
+__test__
